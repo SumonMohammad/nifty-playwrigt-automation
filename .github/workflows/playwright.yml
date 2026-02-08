@@ -25,6 +25,17 @@ jobs:
       - name: Install dependencies
         run: npm install
 
+      # Cache Playwright browsers 
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}
+
+      # Install Playwright browsers
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps
+
       - name: Run tests against STAGING
         env:
           BASE_URL: ${{ secrets.STAGING_BASE_URL }}
