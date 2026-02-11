@@ -1,0 +1,4674 @@
+﻿[Dan Leary] 19:02:35
+thing to actually have less marketing, and people get intrigued.
+
+
+[Al Amin Khan] 19:02:38
+Yeah.
+
+
+[Dan Leary] 19:02:40
+But, um…
+
+
+[Dan Leary] 19:02:42
+you know, I had a… basically at the trade show, I had a portal demonstration
+
+
+[Dan Leary] 19:02:48
+I just recorded 5 minutes of, um, screenshots of me playing in the portal, or do… not playing, but doing common things in the portal.
+
+
+[Dan Leary] 19:02:56
+And then I just put that as a video and put it on loop at the… in the, uh, on a screen so people could see
+
+
+[Dan Leary] 19:03:03
+You know, this is what the portal interaction looks like.
+
+
+[Dan Leary] 19:03:06
+And then I had the hardware set up.
+
+
+[Dan Leary] 19:03:08
+And then I could just kind of talk people through what we do.
+
+
+[Dan Leary] 19:03:13
+Yeah, so it was good.
+
+
+[Dan Leary] 19:03:15
+It was good.
+
+
+[Al Amin Khan] 19:03:17
+Yeah. Yeah, thanks for sharing.
+
+
+[Al Amin Khan] 19:03:20
+Okay.
+
+
+[Azizul Haque Jany] 19:03:23
+Okay, then, let me share my screen.
+
+
+[Dan Leary] 19:03:28
+Great.
+
+
+[Azizul Haque Jany] 19:03:30
+Uh, I make… I'm giving a quick update on the portal.
+
+
+[Azizul Haque Jany] 19:03:39
+Yeah, our new
+
+
+[Azizul Haque Jany] 19:03:41
+Two brand new feature is the…
+
+
+[Azizul Haque Jany] 19:03:45
+notifications, and the notification management.
+
+
+[Azizul Haque Jany] 19:03:50
+Like…
+
+
+[Azizul Haque Jany] 19:03:54
+Yes, the…
+
+
+[Azizul Haque Jany] 19:03:59
+Test…
+
+
+[Azizul Haque Jany] 19:04:03
+Uh, if we mention someone…
+
+
+[Azizul Haque Jany] 19:04:05
+And…
+
+
+[Azizul Haque Jany] 19:04:11
+then the user got the notification on the top bar.
+
+
+[Azizul Haque Jany] 19:04:15
+like that…
+
+
+[Azizul Haque Jany] 19:04:20
+Uh, this means the read notification, and this means…
+
+
+[Azizul Haque Jany] 19:04:26
+the unread notifications. Also…
+
+
+[Azizul Haque Jany] 19:04:30
+link here…
+
+
+[Azizul Haque Jany] 19:04:31
+This is the…
+
+
+[Azizul Haque Jany] 19:04:34
+mentioned event desk.
+
+
+[Dan Leary] 19:04:36
+Yeah.
+
+
+[Dan Leary] 19:04:39
+So… so the, um, unread dot…
+
+
+[Azizul Haque Jany] 19:04:40
+Yeah.
+
+
+[Dan Leary] 19:04:43
+disappears if they click on the link.
+
+
+[Dan Leary] 19:04:46
+Or… does it also disappear if they read it without clicking on the link?
+
+
+[Azizul Haque Jany] 19:04:52
+Yeah.
+
+
+[Dan Leary] 19:04:56
+This is terrific.
+
+
+[Azizul Haque Jany] 19:04:56
+Android masses, yeah.
+
+
+[Dan Leary] 19:04:58
+This is very good. Thank you for doing this, yeah.
+
+
+[Azizul Haque Jany] 19:05:00
+Yeah.
+
+
+[Dan Leary] 19:05:01
+I like that.
+
+
+[Dan Leary] 19:05:05
+Wow.
+
+
+[Azizul Haque Jany] 19:05:05
+Still, we are trying to improve the UX.
+
+
+[Azizul Haque Jany] 19:05:08
+Also. And…
+
+
+[Dan Leary] 19:05:09
+Yeah.
+
+
+[Azizul Haque Jany] 19:05:11
+And another brand new feature is…
+
+
+[Dan Leary] 19:05:17
+notifications.
+
+
+[Azizul Haque Jany] 19:05:18
+notifications, yeah, notification management.
+
+
+[Dan Leary] 19:05:19
+Yeah.
+
+
+[Azizul Haque Jany] 19:05:23
+Where is the notification management?
+
+
+[Azizul Haque Jany] 19:05:27
+Ctrl-Pace…
+
+
+[Azizul Haque Jany] 19:05:29
+the company-wide.
+
+
+[Azizul Haque Jany] 19:05:31
+This is… this space is for the super admin. Super admin can…
+
+
+[Azizul Haque Jany] 19:05:37
+change the company.
+
+
+[Azizul Haque Jany] 19:05:39
+And see the company-wise status.
+
+
+[Azizul Haque Jany] 19:05:42
+Nedo.
+
+
+[Dan Leary] 19:05:42
+Yep.
+
+
+[Azizul Haque Jany] 19:05:45
+Like…
+
+
+[Azizul Haque Jany] 19:05:47
+Also, super admin can change
+
+
+[Azizul Haque Jany] 19:05:50
+the status.
+
+
+[Azizul Haque Jany] 19:05:54
+This status means that this column is… this row is active.
+
+
+[Azizul Haque Jany] 19:05:59
+and the in-app notification.
+
+
+[Dan Leary] 19:06:00
+Yep.
+
+
+[Azizul Haque Jany] 19:06:03
+If the check in notification is… comes from in the app, like,
+
+
+[Azizul Haque Jany] 19:06:08
+like this, and this is the email notification.
+
+
+[Dan Leary] 19:06:10
+Yep.
+
+
+[Azizul Haque Jany] 19:06:12
+And here is the, uh, targeted… targeted user, uh, site managers.
+
+
+[Dan Leary] 19:06:13
+Yep.
+
+
+[Dan Leary] 19:06:19
+And other users.
+
+
+[Azizul Haque Jany] 19:06:19
+And also, yeah, also user… oh, sorry, there is no user, actually, this company.
+
+
+[Azizul Haque Jany] 19:06:27
+I go to the another user, right?
+
+
+[Dan Leary] 19:06:27
+Okay.
+
+
+[Azizul Haque Jany] 19:06:31
+Okay, so… next time… next time.
+
+
+[Azizul Haque Jany] 19:06:37
+Yeah, here is the user.
+
+
+[Dan Leary] 19:06:41
+Yep.
+
+
+[Azizul Haque Jany] 19:06:41
+Okay? This company, actually.
+
+
+[Dan Leary] 19:06:44
+Yeah.
+
+
+[Azizul Haque Jany] 19:06:44
+user filter with by the company, and who…
+
+
+[Dan Leary] 19:06:47
+Oh, great.
+
+
+[Azizul Haque Jany] 19:06:48
+Yeah.
+
+
+[Azizul Haque Jany] 19:06:50
+Okay, and…
+
+
+[Azizul Haque Jany] 19:06:54
+Also…
+
+
+[Azizul Haque Jany] 19:06:55
+And…
+
+
+[Dan Leary] 19:06:59
+Um, a…
+
+
+[Azizul Haque Jany] 19:07:00
+They've…
+
+
+[Dan Leary] 19:07:01
+Go ahead. I'll ask a question when you're done.
+
+
+[Azizul Haque Jany] 19:07:04
+Yeah. We'll… we'll improve this UX, like, this two part is in-app notification and email notification.
+
+
+[Azizul Haque Jany] 19:07:15
+is… we will be delivery method, and the site managers, other users will be the targeted user.
+
+
+[Azizul Haque Jany] 19:07:23
+will improve this for better UX.
+
+
+[Azizul Haque Jany] 19:07:26
+And in the user, if user…
+
+
+[Azizul Haque Jany] 19:07:32
+see the notification management fields.
+
+
+[Azizul Haque Jany] 19:07:35
+There is no company, because the users…
+
+
+[Dan Leary] 19:07:38
+Mm-hmm.
+
+
+[Azizul Haque Jany] 19:07:39
+content in the company, only you can see on…
+
+
+[Dan Leary] 19:07:40
+Yeah.
+
+
+[Azizul Haque Jany] 19:07:45
+on their company, actually, like…
+
+
+[Azizul Haque Jany] 19:07:48
+this company, actually.
+
+
+[Azizul Haque Jany] 19:07:50
+Also…
+
+
+[Azizul Haque Jany] 19:07:53
+User can update the…
+
+
+[Azizul Haque Jany] 19:07:55
+notification, event notification in company-wide.
+
+
+[Dan Leary] 19:07:59
+Perfect.
+
+
+[Azizul Haque Jany] 19:08:02
+Yeah.
+
+
+[Dan Leary] 19:08:02
+I think this is perfect.
+
+
+[Azizul Haque Jany] 19:08:05
+Yeah…
+
+
+[Dan Leary] 19:08:05
+Yeah, I… this is exactly what I was looking for. This is perfect.
+
+
+[Dan Leary] 19:08:12
+Um…
+
+
+[Dan Leary] 19:08:15
+So, when does it go to stage?
+
+
+[Dan Leary] 19:08:19
+How close do you think you are to having this?
+
+
+[Azizul Haque Jany] 19:08:22
+Uh, this is almost complete, but we need some QA.
+
+
+[Dan Leary] 19:08:28
+Yeah.
+
+
+[Azizul Haque Jany] 19:08:29
+Hopefully, yeah, hopefully we'll post on the status after coming back to the office after…
+
+
+[Dan Leary] 19:08:30
+Because I…
+
+
+[Dan Leary] 19:08:42
+like, maybe Friday?
+
+
+[Al Amin Khan] 19:08:44
+Maybe next week, then.
+
+
+[Azizul Haque Jany] 19:08:45
+Maybe, yeah.
+
+
+[Dan Leary] 19:08:46
+Next week. Okay.
+
+
+[Azizul Haque Jany] 19:08:49
+Because these two things are the…
+
+
+[Dan Leary] 19:08:52
+Good. Yeah.
+
+
+[Azizul Haque Jany] 19:08:52
+big features, actually, you would need some PR.
+
+
+[Dan Leary] 19:08:55
+Yeah, I noticed that. So, you needed to do the, um…
+
+
+[Dan Leary] 19:09:00
+the new notifications…
+
+
+[Dan Leary] 19:09:02
+And, you know, the…
+
+
+[Dan Leary] 19:09:06
+the bell symbol notifications. Uh…
+
+
+[Dan Leary] 19:09:09
+And this, in parallel, for this really to work properly, but this is exactly what we wanted.
+
+
+[Azizul Haque Jany] 19:09:09
+Yeah.
+
+
+[Dan Leary] 19:09:16
+Yeah.
+
+
+[Azizul Haque Jany] 19:09:17
+Yeah.
+
+
+[Dan Leary] 19:09:18
+And it's event notifications company-wide.
+
+
+[Dan Leary] 19:09:22
+And I actually think that the way you have the
+
+
+[Dan Leary] 19:09:25
+the checkboxes,
+
+
+[Dan Leary] 19:09:28
+And the, um, the headers for that.
+
+
+[Dan Leary] 19:09:31
+is… is perfect.
+
+
+[Azizul Haque Jany] 19:09:33
+Okay.
+
+
+[Dan Leary] 19:09:33
+I think he… I don't think you have to…
+
+
+[Dan Leary] 19:09:36
+make it clearer?
+
+
+[Dan Leary] 19:09:42
+I think that's good.
+
+
+[Al Amin Khan] 19:09:44
+Yeah, okay.
+
+
+[Azizul Haque Jany] 19:09:45
+Yeah.
+
+
+[Dan Leary] 19:09:47
+Yeah, I…
+
+
+[Dan Leary] 19:09:49
+I think this is very good. Thank you.
+
+
+[Azizul Haque Jany] 19:09:51
+Yeah, yeah, thank you.
+
+
+[Dan Leary] 19:09:53
+That's what… that's what I envisioned.
+
+
+[Azizul Haque Jany] 19:09:56
+Uh, we…
+
+
+[Dan Leary] 19:09:56
+Um, we… we may… we may decide… I'll have my team look at it and see if there's other types of events we want to add.
+
+
+[Dan Leary] 19:10:04
+But… are those all of our event types, for example?
+
+
+[Dan Leary] 19:10:10
+Um…
+
+
+[Dan Leary] 19:10:12
+Like, there's probably so… there's probably other event types. I know we had, like, lessons learned.
+
+
+[Azizul Haque Jany] 19:10:17
+Yeah.
+
+
+[Dan Leary] 19:10:17
+And, um…
+
+
+[Md. Al - Emran Ibn Shayed] 19:10:22
+Yeah, Dan, should we add all of them?
+
+
+[Azizul Haque Jany] 19:10:23
+There's some…
+
+
+[Dan Leary] 19:10:26
+Yeah.
+
+
+[Dan Leary] 19:10:28
+Yep.
+
+
+[Md. Al - Emran Ibn Shayed] 19:10:31
+Okay.
+
+
+[Dan Leary] 19:10:33
+I'm just looking at… so we have, like…
+
+
+[Azizul Haque Jany] 19:10:35
+All…
+
+
+[Dan Leary] 19:10:35
+malfunction and site diagnostics.
+
+
+[Dan Leary] 19:10:39
+data curation…
+
+
+[Dan Leary] 19:10:43
+the, um…
+
+
+[Md. Al - Emran Ibn Shayed] 19:10:43
+So, uh, this space, uh, should be aligned with event type and alarm severity, right?
+
+
+[Zahidul Hoque Fahim] 19:10:44
+So, these kids, um, should be aligned.
+
+
+[Md. Al - Emran Ibn Shayed] 19:10:49
+Whenever, uh,
+
+
+[Dan Leary] 19:10:50
+Yeah.
+
+
+[Md. Al - Emran Ibn Shayed] 19:10:51
+event category edit or removed.
+
+
+[Zahidul Hoque Fahim] 19:10:55
+It's also named.
+
+
+[Md. Al - Emran Ibn Shayed] 19:10:55
+This space also need to be updated.
+
+
+[Dan Leary] 19:10:58
+Yeah. The… the only two…
+
+
+[Dan Leary] 19:11:04
+Um, types of events.
+
+
+[Dan Leary] 19:11:07
+So here's something for us to think about.
+
+
+[Dan Leary] 19:11:10
+Um, you know, we had mentions and email and notifications.
+
+
+[Dan Leary] 19:11:15
+The mentions really only apply to…
+
+
+[Dan Leary] 19:11:18
+I think notes and tickets.
+
+
+[Dan Leary] 19:11:22
+I guess I'm wondering if maybe we don't want to have…
+
+
+[Dan Leary] 19:11:25
+Notes and tickets.
+
+
+[Dan Leary] 19:11:28
+on this page.
+
+
+[Dan Leary] 19:11:30
+Because notes and tickets would typically use mentions instead.
+
+
+[Dan Leary] 19:11:39
+Or…
+
+
+[Dan Leary] 19:11:41
+Or maybe, actually, maybe, maybe we do, maybe…
+
+
+[Dan Leary] 19:11:44
+mentions is…
+
+
+[Dan Leary] 19:11:47
+additive, if that makes sense?
+
+
+[Dan Leary] 19:11:50
+Maybe we want to have notes and tickets on here.
+
+
+[Dan Leary] 19:11:53
+to say, okay, who gets notes when they're made?
+
+
+[Dan Leary] 19:11:57
+Um, because…
+
+
+[Dan Leary] 19:11:59
+That way, you don't always have to mention somebody if you're making a note, and you want the…
+
+
+[Dan Leary] 19:12:05
+the site manager to get it, for example.
+
+
+[Dan Leary] 19:12:10
+I… I… just thinking about that some more, I think we want to put every type of event on here.
+
+
+[Dan Leary] 19:12:15
+Including notes and tickets.
+
+
+[Md. Al - Emran Ibn Shayed] 19:12:21
+Okay.
+
+
+[Dan Leary] 19:12:21
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:12:22
+Yeah.
+
+
+[Dan Leary] 19:12:25
+Yeah.
+
+
+[Dan Leary] 19:12:28
+But this is great. Good job.
+
+
+[Azizul Haque Jany] 19:12:34
+Yeah, thank you, Dan.
+
+
+[Dan Leary] 19:12:39
+Abdullah, did you have any questions on this?
+
+
+[Dan Leary] 19:12:44
+Since you're… Abdullah owns Trinity, are alarming.
+
+
+[Dan Leary] 19:12:49
+system.
+
+
+[Dan Leary] 19:12:53
+And… this would just be the notifications from there.
+
+
+[Zahidul Hoque Fahim] 19:12:59
+Yeah.
+
+
+[Abdullah Sayeed] 19:13:04
+Yeah, not much.
+
+
+[Dan Leary] 19:13:05
+Yeah.
+
+
+[Dan Leary] 19:13:10
+Some… someday, we may want to add SMS.
+
+
+[Dan Leary] 19:13:14
+as a notification option.
+
+
+[Dan Leary] 19:13:17
+Because…
+
+
+[Dan Leary] 19:13:19
+If there is a critical alarm,
+
+
+[Dan Leary] 19:13:22
+the site manager may want to get a text message.
+
+
+[Dan Leary] 19:13:27
+Because sometimes they get lost in emails.
+
+
+[Zahidul Hoque Fahim] 19:13:31
+Yeah.
+
+
+[Dan Leary] 19:13:32
+very important things.
+
+
+[Abdullah Sayeed] 19:13:32
+So, opportunity. So, this notification, I only manage the…
+
+
+[Abdullah Sayeed] 19:13:38
+Event creation, right?
+
+
+[Dan Leary] 19:13:43
+Yeah. So, so Trini…
+
+
+[Abdullah Sayeed] 19:13:44
+Right, sure.
+
+
+[Dan Leary] 19:13:46
+Yeah, so Trinity is just creating the alarms.
+
+
+[Abdullah Sayeed] 19:13:47
+Yeah.
+
+
+[Dan Leary] 19:13:51
+alarm events.
+
+
+[Abdullah Sayeed] 19:13:53
+Events, yes.
+
+
+[Dan Leary] 19:13:53
+I guess the question is, how does…
+
+
+[Dan Leary] 19:13:55
+How does this event notification work with…
+
+
+[Dan Leary] 19:14:03
+How do notifications get… triggered?
+
+
+[Abdullah Sayeed] 19:14:03
+No, normally, if you remember, uh,
+
+
+[Abdullah Sayeed] 19:14:05
+The disk usage thing is connected a little bit to this.
+
+
+[Abdullah Sayeed] 19:14:09
+So, uh, previously, uh, this is temporarily done.
+
+
+[Abdullah Sayeed] 19:14:13
+Uh, the disk usage, exception and gateway connection exception.
+
+
+[Abdullah Sayeed] 19:14:18
+Those are email notifications,
+
+
+[Abdullah Sayeed] 19:14:22
+thing, which is…
+
+
+[Abdullah Sayeed] 19:14:23
+notified to support.
+
+
+[Abdullah Sayeed] 19:14:26
+Without… with some exception. Otherwise, all the notification is off, email notification.
+
+
+[Abdullah Sayeed] 19:14:31
+Right now, we don't have…
+
+
+[Abdullah Sayeed] 19:14:35
+What is site managers and email notifications doing?
+
+
+[Abdullah Sayeed] 19:14:39
+Right? What is what?
+
+
+[Abdullah Sayeed] 19:14:42
+I missed this.
+
+
+[Md. Al - Emran Ibn Shayed] 19:14:44
+fast, uh, two column, uh, before Site Manager is…
+
+
+[Md. Al - Emran Ibn Shayed] 19:14:48
+Uh, how we send the notification.
+
+
+[Md. Al - Emran Ibn Shayed] 19:14:53
+And, uh, other two columns, Site Manager and Other Users.
+
+
+[Zahidul Hoque Fahim] 19:14:54
+And, uh,
+
+
+[Md. Al - Emran Ibn Shayed] 19:14:57
+Uh, who will get the notifications?
+
+
+[Abdullah Sayeed] 19:15:02
+So this is confusing, right?
+
+
+[Dan Leary] 19:15:07
+Yeah, maybe…
+
+
+[Zahidul Hoque Fahim] 19:15:08
+Yeah,
+
+
+[Dan Leary] 19:15:09
+Um, Abdel ask a good question. Maybe…
+
+
+[Dan Leary] 19:15:11
+the first two columns are…
+
+
+[Dan Leary] 19:15:13
+How we notify, and the second two columns are who we notify. Maybe we just want to clarify that, make it a little differentiated.
+
+
+[Azizul Haque Jany] 19:15:14
+Yeah.
+
+
+[Azizul Haque Jany] 19:15:17
+Column is…
+
+
+[Azizul Haque Jany] 19:15:19
+Yeah, yeah.
+
+
+[Md. Al - Emran Ibn Shayed] 19:15:21
+Yeah, yeah. That's why, um, Johnny mentioned…
+
+
+[Dan Leary] 19:15:21
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:15:22
+Yeah, and that's
+
+
+[Md. Al - Emran Ibn Shayed] 19:15:24
+that we will, uh, wrap those two columns into a notification method.
+
+
+[Azizul Haque Jany] 19:15:24
+Hey, yeah.
+
+
+[Abdullah Sayeed] 19:15:29
+What we heard previously, can I
+
+
+[Abdullah Sayeed] 19:15:31
+What we heard previously, can I see what we had? Is it replacing previous UI?
+
+
+[Dan Leary] 19:15:35
+Yeah. Yeah, well, the whole thing here, Abdullah, is that the, um… Previously, this was set up on a site-by-site basis.
+
+
+[Dan Leary] 19:15:44
+And we did not want that. We want a company-wide.
+
+
+[Dan Leary] 19:15:48
+notification system.
+
+
+[Abdullah Sayeed] 19:15:52
+Okay.
+
+
+[Dan Leary] 19:15:54
+So it's replacing this page.
+
+
+[Abdullah Sayeed] 19:15:55
+Okay.
+
+
+[Abdullah Sayeed] 19:15:58
+Yeah.
+
+
+[Dan Leary] 19:16:00
+Um, and I'm not sure that this page was ever functional.
+
+
+[Dan Leary] 19:16:03
+I think it was because there's one or two customers that ever set this up for a site.
+
+
+[Abdullah Sayeed] 19:16:10
+Yeah, it was functional, yes.
+
+
+[Dan Leary] 19:16:11
+Um… Yeah. So… So now we want to change… So Trinity… What process triggers notifications?
+
+
+[Dan Leary] 19:16:24
+Is it Trinity, or is it a different, like… a different crone.
+
+
+[Abdullah Sayeed] 19:16:28
+So, Trinity just creates the event, then afterwards…
+
+
+[Abdullah Sayeed] 19:16:32
+In Trinity, I actually do a trigger system.
+
+
+[Abdullah Sayeed] 19:16:37
+After all event creation.
+
+
+[Abdullah Sayeed] 19:16:39
+Which is event ID and a hook.
+
+
+[Abdullah Sayeed] 19:16:42
+set up in a backend of…
+
+
+[Md. Al - Emran Ibn Shayed] 19:16:44
+Yeah, nifty.
+
+
+[Abdullah Sayeed] 19:16:45
+Uh, next, next, whatever.
+
+
+[Md. Al - Emran Ibn Shayed] 19:16:46
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:16:47
+Yeah.
+
+
+[Md. Al - Emran Ibn Shayed] 19:16:48
+We call it a process alarm.
+
+
+[Abdullah Sayeed] 19:16:49
+Um, and then…
+
+
+[Zahidul Hoque Fahim] 19:16:49
+We've watched the
+
+
+[Abdullah Sayeed] 19:16:52
+Yeah, and then processoram is doing this notification system working.
+
+
+[Abdullah Sayeed] 19:16:57
+So, when you said, like, make the…
+
+
+[Abdullah Sayeed] 19:16:59
+gateway usage and gateway connection.
+
+
+[Abdullah Sayeed] 19:17:02
+disk usage and gateway connection active and others deactive.
+
+
+[Abdullah Sayeed] 19:17:06
+So that's when Nifty had to do the thing.
+
+
+[Abdullah Sayeed] 19:17:12
+Process LM was…
+
+
+[Abdullah Sayeed] 19:17:14
+then used, uh…
+
+
+[Abdullah Sayeed] 19:17:16
+All alarms was copying every alarm to support.
+
+
+[Abdullah Sayeed] 19:17:21
+So, it was just selectively…
+
+
+[Abdullah Sayeed] 19:17:23
+filtering out those… this…
+
+
+[Abdullah Sayeed] 19:17:26
+usage and get your connection, and all others were not sent to support.
+
+
+[Abdullah Sayeed] 19:17:30
+Only those two. So, that is nifty doing. Uh, thus…
+
+
+[Abdullah Sayeed] 19:17:36
+Yes, LR modification delivery system.
+
+
+[Abdullah Sayeed] 19:17:40
+LM is created by Trinity. Notification system is created, uh, system, and you need to…
+
+
+[Dan Leary] 19:17:51
+So… So, I guess maybe the question for Nifty is… what's needed in order to get this, um… working. So the front end is great.
+
+
+[Dan Leary] 19:18:05
+maybe with the minor… you know, tweak to the column, like, what… But…
+
+
+[Md. Al - Emran Ibn Shayed] 19:18:09
+Yeah, after these things are going to be production, uh, to get
+
+
+[Zahidul Hoque Fahim] 19:18:09
+Yeah.
+
+
+[Md. Al - Emran Ibn Shayed] 19:18:14
+Uh, notification system working.
+
+
+[Md. Al - Emran Ibn Shayed] 19:18:16
+Like previously, uh,
+
+
+[Md. Al - Emran Ibn Shayed] 19:18:20
+company need to fill this space?
+
+
+[Md. Al - Emran Ibn Shayed] 19:18:23
+And…
+
+
+[Md. Al - Emran Ibn Shayed] 19:18:24
+from this information,
+
+
+[Md. Al - Emran Ibn Shayed] 19:18:28
+In our backend, we will handle that.
+
+
+[Dan Leary] 19:18:31
+So, so you, so Nifty owns the process alarm.
+
+
+[Dan Leary] 19:18:36
+That system that… that watches that gets triggered from event creations, and… And sends out notifications.
+
+
+[Zahidul Hoque Fahim] 19:18:45
+Yeah.
+
+
+[Md. Al - Emran Ibn Shayed] 19:18:45
+Yeah, event creation and event update. Actually, when alarms end, uh, we send an email that
+
+
+[Dan Leary] 19:18:45
+Okay.
+
+
+[Md. Al - Emran Ibn Shayed] 19:18:51
+Uh, this LM is closed, and when LM is created,
+
+
+[Zahidul Hoque Fahim] 19:18:51
+Um,
+
+
+[Md. Al - Emran Ibn Shayed] 19:18:55
+We send an email notification.
+
+
+[Dan Leary] 19:19:00
+Okay.
+
+
+[Dan Leary] 19:19:06
+Good. How often does that app, um… the alarm process run.
+
+
+[Dan Leary] 19:19:15
+Is it, like, every 15 minutes, or is it in real time?
+
+
+[Md. Al - Emran Ibn Shayed] 19:19:17
+No, no, that…
+
+
+[Abdullah Sayeed] 19:19:18
+No, no, it's
+
+
+[Dan Leary] 19:19:22
+Okay, I…
+
+
+[Md. Al - Emran Ibn Shayed] 19:19:22
+It works like a wavehook, when the…
+
+
+[Md. Al - Emran Ibn Shayed] 19:19:24
+Uh, event is created or updated.
+
+
+[Dan Leary] 19:19:27
+Okay. Good. So basically.
+
+
+[Dan Leary] 19:19:33
+When we take this live. all, like, emails will… stop all notifications from alarms will stop.
+
+
+[Dan Leary] 19:19:44
+Until the company sets up this page. And then they'll start receiving them again.
+
+
+[Dan Leary] 19:19:55
+I think the only thing. We need to think about is… for, um, super admin is what… Email notifications, go to support at DinaWatts.
+
+
+[Dan Leary] 19:20:11
+Um…
+
+
+[Abdullah Sayeed] 19:20:15
+then I correct something here. Okay, so a little bit, uh, understanding more have to be needed.
+
+
+[Md. Al - Emran Ibn Shayed] 19:20:15
+Yes.
+
+
+[Dan Leary] 19:20:18
+Yeah. Yeah.
+
+
+[Abdullah Sayeed] 19:20:20
+So, when the event is created, I… whenever I create the, uh, event in Trinity, I actually call the hook.
+
+
+[Abdullah Sayeed] 19:20:29
+So it's a manual thing. Event creation and the…
+
+
+[Abdullah Sayeed] 19:20:33
+Uh, LM notification hook is not really automatic, it's… it's a…
+
+
+[Abdullah Sayeed] 19:20:40
+on-demand call. So it's not…
+
+
+[Abdullah Sayeed] 19:20:42
+Uh, it's not always, like, uh, what interval it is running. It's always a manual call… a manual means, like, whenever event is created,
+
+
+[Abdullah Sayeed] 19:20:50
+So, when there is a group of alarm,
+
+
+[Abdullah Sayeed] 19:20:54
+I actually call once.
+
+
+[Abdullah Sayeed] 19:20:56
+That's why the event gets, uh… the group alarms, the group events.
+
+
+[Abdullah Sayeed] 19:21:01
+I only sent LM once.
+
+
+[Abdullah Sayeed] 19:21:03
+Okay, that's how it is managed. So, Trinity manages
+
+
+[Abdullah Sayeed] 19:21:07
+When to trigger the alarm, and alarm delivery is managed by NFT.
+
+
+[Dan Leary] 19:21:13
+So the notifications are managed by Nifty, yeah. Yeah. Yeah. Yeah.
+
+
+[Abdullah Sayeed] 19:21:15
+notification delivery, yes, managed by NFTS.
+
+
+[Dan Leary] 19:21:20
+Okay. So…
+
+
+[Abdullah Sayeed] 19:21:22
+So, here, uh, another thing, uh,
+
+
+[Abdullah Sayeed] 19:21:27
+the notification? Yeah, yeah, yeah, yeah, go on, yes.
+
+
+[Abdullah Sayeed] 19:21:30
+Yeah, can you resume your question, yes?
+
+
+[Dan Leary] 19:21:34
+Yeah, so I guess the only question is, um, besides QA.
+
+
+[Dan Leary] 19:21:40
+What else has to be… done here.
+
+
+[Dan Leary] 19:21:45
+Like, is there anything that Abdullah has to do?
+
+
+[Dan Leary] 19:21:50
+Or… or Dina Watts, like Rachel or…
+
+
+[Abdullah Sayeed] 19:21:51
+Oh, about, about, uh, then, another thing you wanted, uh, to discuss was, uh, can… who is the screen?
+
+
+[Abdullah Sayeed] 19:22:01
+Johnny. Johnny, can you go to Global Alum?
+
+
+[Dan Leary] 19:22:02
+You… can we… Hey, Abdullah, can we go to Global Alarms next?
+
+
+[Abdullah Sayeed] 19:22:04
+Yes.
+
+
+[Dan Leary] 19:22:07
+But, like, because that's where I was going to go also, but just to finish up the notifications.
+
+
+[Abdullah Sayeed] 19:22:07
+Okay, okay, yes, yes.
+
+
+[Dan Leary] 19:22:14
+Um, before we go to global alarms. Yeah. Yeah, because I think… there's nothing… if I understand it, there's nothing you need Abdullah to do, there's nothing you need Rachel to do.
+
+
+[Abdullah Sayeed] 19:22:15
+Can it go back, Johnny?
+
+
+[Azizul Haque Jany] 19:22:17
+Yeah.
+
+
+[Dan Leary] 19:22:26
+This is for Nifty to finish up. To get this function working.
+
+
+[Abdullah Sayeed] 19:22:32
+Yes.
+
+
+[Dan Leary] 19:22:32
+Is that correct?
+
+
+[Azizul Haque Jany] 19:22:33
+Yes. Yeah.
+
+
+[Md. Al - Emran Ibn Shayed] 19:22:34
+Yeah, we already…
+
+
+[Abdullah Sayeed] 19:22:35
+Yeah, because the events are already getting generated, yes.
+
+
+[Dan Leary] 19:22:38
+Yeah. And then… The only follow-up question to that is… The existing notifications… will all be broken, which is… which is good.
+
+
+[Dan Leary] 19:22:51
+But we have to figure out. how we want…
+
+
+[Abdullah Sayeed] 19:22:53
+Right now, Dan, there is not much existing notification system, unless there is two sites. I mean, that…
+
+
+[Abdullah Sayeed] 19:23:00
+two or three sites.
+
+
+[Dan Leary] 19:23:00
+Yeah. Yeah, they're all site-specific, so there's, like.
+
+
+[Dan Leary] 19:23:06
+like, I remember Hyde Park set up a notification.
+
+
+[Abdullah Sayeed] 19:23:08
+Yeah, hiit, I just wanted to know those ideas.
+
+
+[Dan Leary] 19:23:09
+For that. Yeah. Yeah, it's… there's very limited, so it's okay… it's great that we're doing this now, because we can go and reestablish Hyde Park's alarms easily.
+
+
+[Dan Leary] 19:23:19
+But I guess what I'm trying to figure out is.
+
+
+[Dan Leary] 19:23:22
+For, um, for the alarm… the emails that go to support at Denawatts.
+
+
+[Dan Leary] 19:23:28
+Um, I think… I think we want to just not do anything with that.
+
+
+[Dan Leary] 19:23:35
+The only thing is, we may want to have… Um… for example, critical alarms always go to support adenawatts.
+
+
+[Dan Leary] 19:23:46
+And I don't think… I feel like that's, like, a hard-coded rule we can make. It's not something we have to change here.
+
+
+[Dan Leary] 19:23:54
+We don't have to make a UI.
+
+
+[Abdullah Sayeed] 19:23:54
+Uh, that's why I was trying to go to Global Ella, you know.
+
+
+[Abdullah Sayeed] 19:23:59
+So, because why make it hard-coded? Because, you know, like, it is easily doable if global alarm is always super urban stuff.
+
+
+[Abdullah Sayeed] 19:24:07
+If it is super urban, I'm not sure if it is super urban.
+
+
+[Abdullah Sayeed] 19:24:10
+So, yeah.
+
+
+[Dan Leary] 19:24:11
+Well, yeah, no, it's… I mean, so we always have global alarms.
+
+
+[Dan Leary] 19:24:18
+The question is, um… But this… this is the page where we want all the notification rules to be coming from for our customers.
+
+
+[Dan Leary] 19:24:27
+The question is, what's the… what's the notification rule.
+
+
+[Dan Leary] 19:24:30
+for support at Dino Watts, for my team. And I… I think the way that we have it.
+
+
+[Abdullah Sayeed] 19:24:35
+why not have a configuration option there in the Global Alarm parameter, and then you can choose yourself?
+
+
+[Dan Leary] 19:24:44
+I don't…
+
+
+[Abdullah Sayeed] 19:24:48
+Just a checkbox.
+
+
+[Dan Leary] 19:24:49
+Isn't it strange to have… Isn't it strange to have… notifications on the global alarm page.
+
+
+[Dan Leary] 19:25:00
+Maybe it's not. Maybe this is the customer. notification page, and then… Yeah, you're right. Yeah, you're right, I see. Okay, yeah, so now, so let's… let's go over to the, um, global alarms.
+
+
+[Abdullah Sayeed] 19:25:05
+No, I mean, it's better than hard-coded. I mean, you know, like, uh…
+
+
+[Md. Al - Emran Ibn Shayed] 19:25:16
+Then, before going to global background…
+
+
+[Dan Leary] 19:25:18
+H? Yeah. Yeah.
+
+
+[Md. Al - Emran Ibn Shayed] 19:25:19
+I have a question on this space.
+
+
+[Md. Al - Emran Ibn Shayed] 19:25:22
+So, Johnny, could you please…
+
+
+[Md. Al - Emran Ibn Shayed] 19:25:27
+Yeah, uh…
+
+
+[Md. Al - Emran Ibn Shayed] 19:25:30
+Is it possible that, um, site managers
+
+
+[Md. Al - Emran Ibn Shayed] 19:25:36
+need, uh, email notification.
+
+
+[Md. Al - Emran Ibn Shayed] 19:25:39
+Um, but, uh, other users, not?
+
+
+[Md. Al - Emran Ibn Shayed] 19:25:48
+So, these two things are…
+
+
+[Md. Al - Emran Ibn Shayed] 19:25:51
+Um…
+
+
+[Md. Al - Emran Ibn Shayed] 19:25:53
+I can say global for site managers and other users.
+
+
+[Md. Al - Emran Ibn Shayed] 19:25:56
+But if you want to, uh, manage separately, we can…
+
+
+[Md. Al - Emran Ibn Shayed] 19:26:02
+at them, too.
+
+
+[Zahidul Hoque Fahim] 19:26:05
+Uh, maybe let's not complicate things.
+
+
+[Zahidul Hoque Fahim] 19:26:12
+Maybe that's… that's not needed.
+
+
+[Dan Leary] 19:26:18
+Yeah. I think the… I kind of agree. Let's… let's see how this goes, because.
+
+
+[Dan Leary] 19:26:24
+One question is, um… If somebody wants to get notified, they're probably going to click both in-app and email notifications.
+
+
+[Dan Leary] 19:26:33
+It's hard to imagine somebody saying, hey, I only want email notifications, or I only want in-app notifications.
+
+
+[Dan Leary] 19:26:42
+Um… But if they did… I don't know. I think… I think we go… we start off with this, and then we adjust if we need to.
+
+
+[Azizul Haque Jany] 19:26:53
+Yeah. Okay.
+
+
+[Dan Leary] 19:26:55
+Yeah. Oh, the other… the other one is, um… that column where it says status.
+
+
+[Dan Leary] 19:27:02
+It's the toggle. Maybe you just call it… Enable instead of status.
+
+
+[Zahidul Hoque Fahim] 19:27:13
+Yeah, I agree.
+
+
+[Azizul Haque Jany] 19:27:16
+enable, okay?
+
+
+[Dan Leary] 19:27:16
+Or… Yeah, because it's like… enabled or disabled, so you just call it enable.
+
+
+[Dan Leary] 19:27:22
+Or something like that, people will understand that.
+
+
+[Azizul Haque Jany] 19:27:23
+Yeah.
+
+
+[Abdullah Sayeed] 19:27:24
+enabled.
+
+
+[Abdullah Sayeed] 19:27:26
+enabled, like, you know…
+
+
+[Dan Leary] 19:27:28
+Yeah, enabled. Yeah.
+
+
+[Azizul Haque Jany] 19:27:29
+Okay, enabled…
+
+
+[Abdullah Sayeed] 19:27:30
+addictive.
+
+
+[Abdullah Sayeed] 19:27:33
+So then the sites which are having the notification system,
+
+
+[Azizul Haque Jany] 19:27:33
+State… set up.
+
+
+[Abdullah Sayeed] 19:27:41
+Charlemont?
+
+
+[Abdullah Sayeed] 19:27:45
+Lewston?
+
+
+[Dan Leary] 19:27:46
+Yep. Yep.
+
+
+[Abdullah Sayeed] 19:27:47
+Hyde Park, Fasile Solar.
+
+
+[Abdullah Sayeed] 19:27:51
+Appland, Pine Hill,
+
+
+[Abdullah Sayeed] 19:27:54
+Fredonia? Fredonia.
+
+
+[Abdullah Sayeed] 19:27:57
+Palmer Creek.
+
+
+[Dan Leary] 19:27:58
+Yeah.
+
+
+[Abdullah Sayeed] 19:28:00
+And Osgood Solar Testing, maybe.
+
+
+[Dan Leary] 19:28:02
+Yeah. And a lot of those are probably customized for Denowatts, for my support.
+
+
+[Dan Leary] 19:28:09
+Team? So, I think it's… it's fine to break all those, and we just put them into the company-wide.
+
+
+[Dan Leary] 19:28:17
+rules. I think that's okay.
+
+
+[Abdullah Sayeed] 19:28:23
+Okay, so…
+
+
+[Abdullah Sayeed] 19:28:26
+to Global LLMs?
+
+
+[Dan Leary] 19:28:28
+Yeah, so they're global alarms.
+
+
+[Azizul Haque Jany] 19:28:34
+Uh, Dan… Dan, we changed the name alarm config, instead of Global Alarm.
+
+
+[Abdullah Sayeed] 19:28:34
+And I'm configured.
+
+
+[Azizul Haque Jany] 19:28:41
+Is it okay? I think Global Alarm is a little bit confusing name.
+
+
+[Abdullah Sayeed] 19:28:47
+YLMconfig? Why not alum configuration, or something like that? LM settings?
+
+
+[Abdullah Sayeed] 19:28:52
+full word.
+
+
+[Azizul Haque Jany] 19:28:53
+Or…
+
+
+[Azizul Haque Jany] 19:28:55
+or alarm settings…
+
+
+[Abdullah Sayeed] 19:28:57
+Or configurations.
+
+
+[Azizul Haque Jany] 19:28:59
+We soup.
+
+
+[Azizul Haque Jany] 19:29:00
+Yeah.
+
+
+[Dan Leary] 19:29:02
+I… I kind of like it being, um… I mean, it could… I think it should be global alarm… configuration, but we want to use the word global.
+
+
+[Azizul Haque Jany] 19:29:09
+globe.
+
+
+[Dan Leary] 19:29:10
+that's okay. And the main reason for that, Johnny, is because there's gonna be two phases to alarms.
+
+
+[Azizul Haque Jany] 19:29:14
+Yeah.
+
+
+[Dan Leary] 19:29:19
+Um, global means… this is going to apply to every site.
+
+
+[Azizul Haque Jany] 19:29:24
+Yeah.
+
+
+[Dan Leary] 19:29:25
+For… and Dina Watts. This is not even company-specific, this is just… every site in Dena Watts is gonna have these, so we really want to make it clear that this is… these are global.
+
+
+[Azizul Haque Jany] 19:29:29
+No.
+
+
+[Dan Leary] 19:29:34
+These are not something that are site-specific alarms. Um, because… in a future, in the future, not the near future, but in the medium future, maybe later this year.
+
+
+[Azizul Haque Jany] 19:29:45
+Okay.
+
+
+[Dan Leary] 19:29:47
+we'll create… Uh, custom alarms.
+
+
+[Azizul Haque Jany] 19:29:51
+Okay.
+
+
+[Dan Leary] 19:29:51
+Which can be set up on a site-by-site. Um, but that's… that's why it's important to use the word global.
+
+
+[Dan Leary] 19:30:00
+Here.
+
+
+[Azizul Haque Jany] 19:30:02
+Okay, we'll change it, the global LM configuration.
+
+
+[Zahidul Hoque Fahim] 19:30:07
+Uh, you mean the title of the… of this page?
+
+
+[Dan Leary] 19:30:08
+Yeah.
+
+
+[Azizul Haque Jany] 19:30:11
+Yeah, title.
+
+
+[Zahidul Hoque Fahim] 19:30:15
+Oh, yes. I mean, Dan, isn't it fine with alarm config, since this is technically just configuring the alarm how you want it to be?
+
+
+[Zahidul Hoque Fahim] 19:30:24
+Or how you want, um…
+
+
+[Zahidul Hoque Fahim] 19:30:27
+your allowance based on what criteria is?
+
+
+[Dan Leary] 19:30:37
+is… I guess the… here's the main point about what I was saying, is that.
+
+
+[Dan Leary] 19:30:41
+We want to make it clear to the user.
+
+
+[Zahidul Hoque Fahim] 19:30:45
+that it's global. It's not SAI-specific.
+
+
+[Dan Leary] 19:30:46
+Yeah, that it's… that it applies to everything in Denawatts.
+
+
+[Zahidul Hoque Fahim] 19:30:50
+Yeah.
+
+
+[Dan Leary] 19:30:51
+So, it's okay to call it alarm config if that makes… I understand your point. Maybe it's a better approach this way.
+
+
+[Dan Leary] 19:30:58
+But the second thing is. Um, it's… It's also… something that I think we need to move above the line.
+
+
+[Zahidul Hoque Fahim] 19:30:58
+Yeah.
+
+
+[Dan Leary] 19:31:09
+So that users can see. read-only. Like, users can't update this. This is alarm configs is because it applies to everybody in Denawatts, is something only Super Admin can change and create.
+
+
+[Zahidul Hoque Fahim] 19:31:09
+Okay.
+
+
+[Zahidul Hoque Fahim] 19:31:22
+Yeah.
+
+
+[Dan Leary] 19:31:25
+Um, but it's… it would be a good thing for it to be above the line so that people could see.
+
+
+[Zahidul Hoque Fahim] 19:31:25
+Yes.
+
+
+[Zahidul Hoque Fahim] 19:31:31
+Yeah.
+
+
+[Dan Leary] 19:31:32
+What alarms. how they're triggered, and how they're suppressed.
+
+
+[Zahidul Hoque Fahim] 19:31:35
+Yeah. Yeah.
+
+
+[Dan Leary] 19:31:36
+For example… Yeah.
+
+
+[Zahidul Hoque Fahim] 19:31:37
+how they're getting created.
+
+
+[Zahidul Hoque Fahim] 19:31:41
+Okay. Yeah, sure, we can make it through the link for any users.
+
+
+[Dan Leary] 19:31:47
+Yeah. And then, you know, and then this is the super admin.
+
+
+[Dan Leary] 19:31:53
+So… And I think it's a very good thing.
+
+
+[Dan Leary] 19:31:59
+That they can also see you, like, when they're looking at the portfolio page.
+
+
+[Dan Leary] 19:32:03
+You know, when we have that new… table that shows all the alarm names, and what's currently triggered, and… And everything that they can… they can trace that back and be like, oh, what is inverter unavailability mean?
+
+
+[Dan Leary] 19:32:16
+And they can come to this page and see, okay, invert unavailability means.
+
+
+[Dan Leary] 19:32:20
+When the target… is unavailable, it's… It's critical, it applies to these things, and it suppresses other alarms.
+
+
+[Dan Leary] 19:32:31
+And they can, like, understand the logic of the alarm.
+
+
+[Zahidul Hoque Fahim] 19:32:35
+Yeah, makes sense, yeah.
+
+
+[Dan Leary] 19:32:37
+That's important. Yeah.
+
+
+[Zahidul Hoque Fahim] 19:32:37
+Yeah. Yeah, at least I can know how it's cutting.
+
+
+[Zahidul Hoque Fahim] 19:32:41
+Pretty good, so…
+
+
+[Dan Leary] 19:32:43
+So… so I guess my… my dream would be… When we go to launch.
+
+
+[Dan Leary] 19:32:50
+the notifications… Uh, next week that… We have this page working as well, which I know this page, Abdullah, I think this has a lot more of your work involved in it.
+
+
+[Abdullah Sayeed] 19:33:03
+Yes.
+
+
+[Dan Leary] 19:33:05
+Um, because it's… this is really how Trinity gets configured.
+
+
+[Abdullah Sayeed] 19:33:10
+So, here, um… the thing I was actually talking about from the last
+
+
+[Abdullah Sayeed] 19:33:17
+discussion, like, admin…
+
+
+[Abdullah Sayeed] 19:33:19
+admin copy, like, support.
+
+
+[Abdullah Sayeed] 19:33:22
+Support notification.
+
+
+[Dan Leary] 19:33:24
+Yeah, yeah, yeah.
+
+
+[Abdullah Sayeed] 19:33:24
+Yeah, so for support notification, we can just have a enabled checkbox here.
+
+
+[Abdullah Sayeed] 19:33:30
+Like, admin notification, which can be just, uh, used
+
+
+[Abdullah Sayeed] 19:33:36
+to actually call…
+
+
+[Abdullah Sayeed] 19:33:38
+admin… I mean…
+
+
+[Abdullah Sayeed] 19:33:39
+delivered the notification to admin or not, like, support to…
+
+
+[Dan Leary] 19:33:43
+Yeah. I… I think that makes sense. So, so we would just want to have a, um, a column with a checkbox.
+
+
+[Abdullah Sayeed] 19:33:43
+or not. Then…
+
+
+[Dan Leary] 19:33:51
+That would be, um… If it's checked, these alarms go to support at Dena Watts, basically.
+
+
+[Dan Leary] 19:34:03
+But that would be the only case where notifications would be… because they're global notifications.
+
+
+[Dan Leary] 19:34:09
+Versus company-specific notifications. Yeah. That makes sense.
+
+
+[Abdullah Sayeed] 19:34:13
+Yes, yes. And also, there is an option. Johnny, can you scroll right?
+
+
+[Abdullah Sayeed] 19:34:18
+to the super right, and I see Acknowledgement checkbox.
+
+
+[Abdullah Sayeed] 19:34:23
+I don't know what they… which… what…
+
+
+[Dan Leary] 19:34:24
+Yeah.
+
+
+[Abdullah Sayeed] 19:34:26
+It does.
+
+
+[Zahidul Hoque Fahim] 19:34:27
+to show that knowledge button.
+
+
+[Dan Leary] 19:34:28
+So… I don't… I don't think we need that anymore, because we built that functionality into all alarms.
+
+
+[Dan Leary] 19:34:39
+Oh, let me think.
+
+
+[Dan Leary] 19:34:44
+You know how we built the acknowledge? into the, um, the event.
+
+
+[Dan Leary] 19:34:52
+in the top right.
+
+
+[Zahidul Hoque Fahim] 19:34:54
+Yeah, I mean, based on this, we are showing the acknowledge button.
+
+
+[Zahidul Hoque Fahim] 19:35:01
+So… I hope it's still working. So, if you…
+
+
+[Zahidul Hoque Fahim] 19:35:05
+Disable the add button, add checkbox from here. The cater disconnection, or whatever alarm would not have.
+
+
+[Zahidul Hoque Fahim] 19:35:13
+that knowledge button will they benefit.
+
+
+[Dan Leary] 19:35:18
+So, oh, so that's functional?
+
+
+[Zahidul Hoque Fahim] 19:35:22
+Uh, I hope so, Johnny. Is it still working?
+
+
+[Azizul Haque Jany] 19:35:25
+No. No, actually, acknowledge button is common for all events now.
+
+
+[Dan Leary] 19:35:28
+Yeah. Yeah.
+
+
+[Zahidul Hoque Fahim] 19:35:31
+Okay.
+
+
+[Dan Leary] 19:35:32
+And I think… Yeah, I… so, I gotta think about this. If we want this to function, or if we want it to be removed.
+
+
+[Azizul Haque Jany] 19:35:33
+Oh, alarm, yes, alarm.
+
+
+[Azizul Haque Jany] 19:35:41
+Okay.
+
+
+[Dan Leary] 19:35:42
+Because it… it might…
+
+
+[Dan Leary] 19:35:47
+It might be okay that we have… that all alarms are… acknowledged, but… Maybe…
+
+
+[Zahidul Hoque Fahim] 19:36:01
+I mean, Dan, well, we have some other issues with this button, so… to think about the first one, the gateway disconnection, that it's now acknowledgeable.
+
+
+[Dan Leary] 19:36:06
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:36:10
+So, all the previous past events have, um, acknowledgement system, so maybe some user did.
+
+
+[Zahidul Hoque Fahim] 19:36:16
+But Istio, uh, uncheck it now, they would not see the past histories, I mean.
+
+
+[Azizul Haque Jany] 19:36:17
+But, you know
+
+
+[Zahidul Hoque Fahim] 19:36:21
+what happened, or did anybody acknowledge or not? So it actually…
+
+
+[Zahidul Hoque Fahim] 19:36:25
+Uh, some kind of, like, true or false. I mean, nothing in the middle.
+
+
+[Dan Leary] 19:36:30
+So, I think that's the argument for deleting that column.
+
+
+[Zahidul Hoque Fahim] 19:36:33
+Yeah, yeah, I guess so.
+
+
+[Zahidul Hoque Fahim] 19:36:35
+Yeah.
+
+
+[Dan Leary] 19:36:35
+And just have it… have… have all arms be acknowledgeable. I think you're right.
+
+
+[Zahidul Hoque Fahim] 19:36:38
+Yes. Yeah, I go, okay. So, we'll remove it then.
+
+
+[Dan Leary] 19:36:42
+Yeah, I think remove it, and you could… you could actually replace that with, um… Uh… Yeah.
+
+
+[Abdullah Sayeed] 19:36:45
+active list.
+
+
+[Abdullah Sayeed] 19:36:49
+admin notification, or admin copy, or…
+
+
+[Zahidul Hoque Fahim] 19:36:52
+admin…
+
+
+[Zahidul Hoque Fahim] 19:36:54
+the admin copy or something like this, yeah.
+
+
+[Zahidul Hoque Fahim] 19:36:56
+Okay.
+
+
+[Dan Leary] 19:36:57
+Yeah. Yeah, that's a good idea. So…
+
+
+[Abdullah Sayeed] 19:37:00
+Okay, so, uh, so that, that solves a problem, because the gateway disk usage and, uh…
+
+
+[Abdullah Sayeed] 19:37:07
+And then get a disconnection has been hard-coded now, and it's problematic. It is targeted through…
+
+
+[Abdullah Sayeed] 19:37:14
+title, and which is not good, because title can be changed, so…
+
+
+[Abdullah Sayeed] 19:37:17
+It is good now. So, that's…
+
+
+[Abdullah Sayeed] 19:37:21
+solved. Now, there is only one thing, it is left is condition.
+
+
+[Abdullah Sayeed] 19:37:24
+Like, here, the condition is actually kind of hard-coded, because there is only one option right now.
+
+
+[Abdullah Sayeed] 19:37:29
+Johnny, if you open this dropdown, there is only one option, and the option is actually a
+
+
+[Abdullah Sayeed] 19:37:35
+condition. Can you ship the condition?
+
+
+[Abdullah Sayeed] 19:37:39
+No, not that suppression.
+
+
+[Azizul Haque Jany] 19:37:40
+Oh.
+
+
+[Abdullah Sayeed] 19:37:41
+their separation condition. Condition to the right, right side to the right.
+
+
+[Azizul Haque Jany] 19:37:44
+or condition, or okay, okay, okay, so…
+
+
+[Abdullah Sayeed] 19:37:46
+So there is either NUN or IRR greater than 100.
+
+
+[Azizul Haque Jany] 19:37:49
+Yeah.
+
+
+[Abdullah Sayeed] 19:37:49
+what parameters were. So then, normally, what I do is, like, if condition is set or not,
+
+
+[Abdullah Sayeed] 19:37:54
+Just, I check for IRR value is more than 100 or not, and which IRR is just one deno IRR.
+
+
+[Abdullah Sayeed] 19:38:00
+So, he is kind of a…
+
+
+[Abdullah Sayeed] 19:38:04
+preset kind of thing happening. For now, we can live with it, but for future, if you need, I mean…
+
+
+[Abdullah Sayeed] 19:38:11
+Is there anything we will be needing? Like, is this condition will be dynamic? Like, uh…
+
+
+[Abdullah Sayeed] 19:38:16
+Which, uh, channel, which parameter, and what value.
+
+
+[Abdullah Sayeed] 19:38:22
+I have to check then the condition is met, or something like that.
+
+
+[Dan Leary] 19:38:25
+Yeah. Well, I think… I think we… We may, um… we will definitely come up with other conditions in the future, but we don't have to spend time right now making it really customizable.
+
+
+[Zahidul Hoque Fahim] 19:38:27
+Yeah…
+
+
+[Dan Leary] 19:38:40
+Because there's gonna be a limited number of acceptable conditions that we could use.
+
+
+[Abdullah Sayeed] 19:38:41
+That's good, yes.
+
+
+[Abdullah Sayeed] 19:38:44
+Yeah, that's easy, that's good, that's good. Okay, for now, I feel like I have already implemented all the things other than, let me tell you which I will separately discuss with you, I guess.
+
+
+[Dan Leary] 19:38:46
+Yeah, yeah.
+
+
+[Abdullah Sayeed] 19:38:57
+Is there any portal? Can you, uh, can Johnny open the live…
+
+
+[Abdullah Sayeed] 19:39:02
+Configuration.
+
+
+[Abdullah Sayeed] 19:39:03
+I think everything is working nice here, so I already changed the portal configuration.
+
+
+[Abdullah Sayeed] 19:39:09
+Uh, to match our need.
+
+
+[Dan Leary] 19:39:11
+Are you seriously. Are you saying that this… So, like, I'm in… I'm particularly interested in, like, the suppression.
+
+
+[Abdullah Sayeed] 19:39:12
+But, yes.
+
+
+[Abdullah Sayeed] 19:39:19
+Yes, suppression is already working, I tested, like, when a grid…
+
+
+[Dan Leary] 19:39:19
+Um… Okay.
+
+
+[Abdullah Sayeed] 19:39:24
+King is suppressed, then…
+
+
+[Abdullah Sayeed] 19:39:26
+I have to check that a lot, because it is, uh, suppression is used
+
+
+[Abdullah Sayeed] 19:39:31
+By previous method, so I already made it dynamic, but if there is a gateway disconnection or higher…
+
+
+[Abdullah Sayeed] 19:39:39
+thing is there, and if it is not configured well, I'm not sure if it will work or not, but it is… generally, it was working.
+
+
+[Dan Leary] 19:39:47
+Because, like, I'm trying to remember, I thought that… I thought the highest… Um, of the hierarchy.
+
+
+[Dan Leary] 19:39:56
+was one. So, for example, if the Dino Wattsgate.
+
+
+[Abdullah Sayeed] 19:39:57
+Yeah, of course, this is test, this is test, uh, this is… this here is test.
+
+
+[Dan Leary] 19:40:00
+Okay, this is a test, yeah. So, for example, like.
+
+
+[Abdullah Sayeed] 19:40:02
+if… if…
+
+
+[Dan Leary] 19:40:04
+if the Dino Watts gateway disconnects. Nothing else is gonna work, and alarm… if we didn't suppress everything else, alarms would be created for every single channel.
+
+
+[Abdullah Sayeed] 19:40:07
+Yeah.
+
+
+[Dan Leary] 19:40:13
+And because of that, we create a thresh… a suppression level of 1.
+
+
+[Dan Leary] 19:40:18
+Meaning, if anything else is below a 1. It doesn't get alarmed, yeah.
+
+
+[Abdullah Sayeed] 19:40:21
+Yeah.
+
+
+[Abdullah Sayeed] 19:40:24
+Yeah, yeah.
+
+
+[Dan Leary] 19:40:24
+there's no alarm event created, yeah. Okay.
+
+
+[Abdullah Sayeed] 19:40:27
+So, uh, while we were watching the… Johnny, is it not downloading this thing? Yeah, Dan, you see, uh, do you have surf…
+
+
+[Abdullah Sayeed] 19:40:37
+shark or some VPN working still?
+
+
+[Dan Leary] 19:40:41
+No. Okay.
+
+
+[Abdullah Sayeed] 19:40:42
+I mean, did you disable it, or you will be billed, like, $600 all of a sudden?
+
+
+[Dan Leary] 19:40:46
+Yeah, I know, I think I disabled it. I should go check.
+
+
+[Abdullah Sayeed] 19:40:50
+I guess. Because, you see, this is the problem we did not set up yet any CDN or…
+
+
+[Abdullah Sayeed] 19:40:56
+Uh, fine, this is a problem, uh,
+
+
+[Abdullah Sayeed] 19:40:59
+Long time happening. Right now,
+
+
+[Abdullah Sayeed] 19:41:01
+This is ISP to ISP, country to country, variable.
+
+
+[Abdullah Sayeed] 19:41:06
+are statist, Dan has some problem in some state. This…
+
+
+[Abdullah Sayeed] 19:41:11
+Slowness of portal.
+
+
+[Abdullah Sayeed] 19:41:13
+Um…
+
+
+[Abdullah Sayeed] 19:41:16
+Yes, it might be a DNS issue, most probably. That's why I set up, then, a VPN to have
+
+
+[Abdullah Sayeed] 19:41:23
+best performance anywhere.
+
+
+[Abdullah Sayeed] 19:41:25
+So…
+
+
+[Abdullah Sayeed] 19:41:27
+DC saw problematic. So we have to set up something in the DNS level, like, uh, why…
+
+
+[Zahidul Hoque Fahim] 19:41:34
+Yeah, maybe Cloudflare, at least, so that it caches some of the JavaScript or other code.
+
+
+[Abdullah Sayeed] 19:41:34
+portal doesn't get to…
+
+
+[Zahidul Hoque Fahim] 19:41:41
+our libraries.
+
+
+[Zahidul Hoque Fahim] 19:41:44
+Yeah, and also, and truly, we also have to do some optimization on the code level, uh, specifically the React level.
+
+
+[Abdullah Sayeed] 19:41:44
+Meow.
+
+
+[Zahidul Hoque Fahim] 19:41:51
+Uh, since…
+
+
+[Abdullah Sayeed] 19:41:52
+Let me share my screen, because it is not showing up properly now.
+
+
+[Azizul Haque Jany] 19:41:57
+Yeah, okay.
+
+
+[Abdullah Sayeed] 19:41:58
+So, I'll come back to Genesis again soon. So, is it my screen visible now?
+
+
+[Zahidul Hoque Fahim] 19:42:02
+Yeah.
+
+
+[Abdullah Sayeed] 19:42:04
+Okay, then. So, the thing is, everything is… I already made dynamic, so you see the subtraction level, the grade…
+
+
+[Abdullah Sayeed] 19:42:12
+is the gateway is the highest one.
+
+
+[Abdullah Sayeed] 19:42:15
+your gator is disconnected, everything else will be suppressed, okay?
+
+
+[Abdullah Sayeed] 19:42:18
+So, one, uh, two is Deno, two is meter inverter, everything is 2.
+
+
+[Abdullah Sayeed] 19:42:25
+Disk usage, I just set 1, because it is not suppressible, it is a
+
+
+[Abdullah Sayeed] 19:42:30
+Major…
+
+
+[Dan Leary] 19:42:31
+We should make that a, um, like a… like a 4 Abdullah.
+
+
+[Abdullah Sayeed] 19:42:36
+gateway disk usage.
+
+
+[Dan Leary] 19:42:38
+Yeah, it can be a higher number, yeah.
+
+
+[Abdullah Sayeed] 19:42:40
+No, no, no, right now, the one is highest.
+
+
+[Dan Leary] 19:42:44
+Yeah, that's what I mean. So, the gateway disk usage… Um, should be, like, a 4.
+
+
+[Dan Leary] 19:42:50
+We don't want that to suppress other alarms.
+
+
+[Abdullah Sayeed] 19:42:54
+Oh, right, right, right, of course, of course, yes.
+
+
+[Dan Leary] 19:42:56
+Yeah, yeah. Yep. Yep.
+
+
+[Abdullah Sayeed] 19:42:57
+Yes. 100%.
+
+
+[Abdullah Sayeed] 19:43:00
+Yes, I mistake it. I did it mistake again. Okay.
+
+
+[Dan Leary] 19:43:03
+Yeah.
+
+
+[Abdullah Sayeed] 19:43:04
+So… okay.
+
+
+[Abdullah Sayeed] 19:43:07
+So, the thing is, now… now I only left… this is a separate discussion, I can… I already made everything, uh…
+
+
+[Abdullah Sayeed] 19:43:16
+dynamic, other than this inverter unavailable and grid unavailable. This…
+
+
+[Dan Leary] 19:43:18
+Great. Okay.
+
+
+[Abdullah Sayeed] 19:43:22
+is rational level discussion.
+
+
+[Dan Leary] 19:43:25
+Okay, yeah, we can discuss that today. Great. Good, okay.
+
+
+[Abdullah Sayeed] 19:43:28
+Yes.
+
+
+[Abdullah Sayeed] 19:43:32
+I think, um, Nifty has done everything good here. I think everything is working, saving everything in the database.
+
+
+[Dan Leary] 19:43:38
+Yeah, awesome. So the…
+
+
+[Abdullah Sayeed] 19:43:40
+And I am using it.
+
+
+[Abdullah Sayeed] 19:43:42
+testing it, and you see this, I already added. I added everything. You can check, like, if you want to add anything else.
+
+
+[Abdullah Sayeed] 19:43:50
+this, um…
+
+
+[Abdullah Sayeed] 19:43:52
+Uh, channels, specific channels targeted
+
+
+[Abdullah Sayeed] 19:43:56
+Oops.
+
+
+[Abdullah Sayeed] 19:43:58
+It is not autosave, right?
+
+
+[Azizul Haque Jany] 19:44:03
+Yeah, it's not auto-sync.
+
+
+[Abdullah Sayeed] 19:44:05
+I changed my… I changed my entire company because for this…
+
+
+[Dan Leary] 19:44:06
+Phew.
+
+
+[Azizul Haque Jany] 19:44:07
+Yeah.
+
+
+[Abdullah Sayeed] 19:44:11
+slowness of portal.
+
+
+[Abdullah Sayeed] 19:44:14
+Uh, because they cannot at all, I mean, anyhow, they are not actually agreeing that
+
+
+[Abdullah Sayeed] 19:44:20
+our system is flowing. Like, the test is like this.
+
+
+[Abdullah Sayeed] 19:44:23
+If it is, uh, what… they are saying, yeah, it is slow first time, but it is very fast next time.
+
+
+[Abdullah Sayeed] 19:44:33
+Yeah, so I told them, yeah, you have to check with cash cleared.
+
+
+[Zahidul Hoque Fahim] 19:44:34
+Yeah…
+
+
+[Abdullah Sayeed] 19:44:37
+They don't understand how to clear the cache. Okay.
+
+
+[Abdullah Sayeed] 19:44:42
+So… so that is happening.
+
+
+[Dan Leary] 19:44:44
+Yeah. Okay. Good.
+
+
+[Abdullah Sayeed] 19:44:45
+Anyhow, we will deal with it later, so…
+
+
+[Abdullah Sayeed] 19:44:48
+I think that's all from me for the global LLM.
+
+
+[Dan Leary] 19:44:52
+Yeah, good. So… So, you know, in summary, on the alarms and notifications.
+
+
+[Dan Leary] 19:44:59
+Um, after some more quality control, um… review this week.
+
+
+[Dan Leary] 19:45:05
+Um, we think that, uh, next week. uh, say, next Tuesday, we can take all of this live.
+
+
+[Dan Leary] 19:45:14
+Um, now, global alarms are live now, it sounds like Abdullah, except for… the availability ones that we'll discuss with Rachel.
+
+
+[Dan Leary] 19:45:23
+Um, from the portal, but… Yeah, for notifications and everything else, I'm very excited about that, and look forward to seeing that all working next week, so… Good job.
+
+
+[Abdullah Sayeed] 19:45:35
+So, as it is going to be, uh, company-wide, I mean, this notification right now is not delivering to anyone.
+
+
+[Abdullah Sayeed] 19:45:42
+Other than Hyde Park or some other sites. And I saw the sites, those are actually not configured properly, because some sites are, like,
+
+
+[Dan Leary] 19:45:45
+Yeah.
+
+
+[Abdullah Sayeed] 19:45:49
+created, but just…
+
+
+[Dan Leary] 19:45:50
+Yeah. Yeah.
+
+
+[Abdullah Sayeed] 19:45:50
+blank. Okay, and site managers are sent those notaries. So, it will be…
+
+
+[Abdullah Sayeed] 19:45:56
+Uh, we have to test it thoroughly, like, the emails are going properly to whoever is connected to the emails.
+
+
+[Abdullah Sayeed] 19:46:07
+And, yeah.
+
+
+[Dan Leary] 19:46:08
+Yeah. Awesome.
+
+
+[Dan Leary] 19:46:12
+Okay, so… What's our next topic?
+
+
+[Sayem Billah] 19:46:17
+Alright, uh, so let's have a look at the Reaper Builder, what was implemented this week.
+
+
+[Dan Leary] 19:46:22
+Excellent.
+
+
+[Sayem Billah] 19:46:23
+Alright, let me share my screen.
+
+
+[Sayem Billah] 19:46:29
+Okay, is it visible?
+
+
+[Sayem Billah] 19:46:31
+Okay, firstly, as you requested, uh, we had sorting for each of the columns. Now you can sort it in the ascending and descending order.
+
+
+[Dan Leary] 19:46:31
+Yes. Ooh, that's better.
+
+
+[Sayem Billah] 19:46:40
+And we also added a whole column highlight so that you can… the user can…
+
+
+[Dan Leary] 19:46:42
+Yeah.
+
+
+[Sayem Billah] 19:46:46
+know which column is, right now, actively sort… being sorted out.
+
+
+[Dan Leary] 19:46:50
+Mm-hmm.
+
+
+[Sayem Billah] 19:46:51
+Um, you can sort any of the…
+
+
+[Sayem Billah] 19:46:54
+columns, plus, as requested, I have added, uh,
+
+
+[Sayem Billah] 19:46:58
+unit for the metrics and KPIs, right here.
+
+
+[Sayem Billah] 19:47:01
+And most of them has, uh, this unit in database.
+
+
+[Dan Leary] 19:47:02
+Mm-hmm.
+
+
+[Sayem Billah] 19:47:06
+Uh, some of them does… does not have.
+
+
+[Dan Leary] 19:47:08
+Yeah. Yeah.
+
+
+[Sayem Billah] 19:47:09
+Um, alright, uh, and then…
+
+
+[Sayem Billah] 19:47:13
+Uh, from here, user can now enable notification, uh, for the…
+
+
+[Sayem Billah] 19:47:19
+template. Let's enable this. And from here, he can choose whether he wants to…
+
+
+[Sayem Billah] 19:47:26
+notify all of the site managers at once.
+
+
+[Sayem Billah] 19:47:28
+And you can also assign the other users of the company.
+
+
+[Sayem Billah] 19:47:34
+You can choose multiple of them.
+
+
+[Sayem Billah] 19:47:36
+Also, he can add external mail.
+
+
+[Zahidul Hoque Fahim] 19:47:37
+False.
+
+
+[Sayem Billah] 19:47:40
+Uh, to the external users of the company, let's say another agency, uh, let's have a look, and if TITSolution.com.
+
+
+[Sayem Billah] 19:47:49
+like this. And he can save the template right away.
+
+
+[Dan Leary] 19:47:51
+Yeah. Okay. Give it a name.
+
+
+[Sayem Billah] 19:47:55
+Uh, let's… uh, you get the idea, right? And another way to enable notification is from the templates page.
+
+
+[Dan Leary] 19:47:57
+Yeah, yeah, yeah.
+
+
+[Sayem Billah] 19:48:03
+Uh, he can choose it, let's say… already I have added the tag so that user know which
+
+
+[Zahidul Hoque Fahim] 19:48:07
+Okay. Next.
+
+
+[Sayem Billah] 19:48:08
+Templates are being notified right now. So if I press on it, yeah, I can see that…
+
+
+[Dan Leary] 19:48:11
+Yeah.
+
+
+[Sayem Billah] 19:48:14
+Choose another one, um…
+
+
+[Sayem Billah] 19:48:17
+Maybe this one. Yeah, he can see that all of the sites managers are being notified, and which users are included in the notification.
+
+
+[Sayem Billah] 19:48:25
+And how many, uh, days are… what's the frequency of the notification?
+
+
+[Zahidul Hoque Fahim] 19:48:28
+updates…
+
+
+[Sayem Billah] 19:48:31
+Now, here is a clarification, please. Um…
+
+
+[Dan Leary] 19:48:32
+Yeah.
+
+
+[Sayem Billah] 19:48:35
+Uh, logically speaking,
+
+
+[Sayem Billah] 19:48:37
+Uh, let's say we have a 7-day reporter.
+
+
+[Zahidul Hoque Fahim] 19:48:38
+Let's see…
+
+
+[Zahidul Hoque Fahim] 19:48:41
+Okay.
+
+
+[Sayem Billah] 19:48:42
+And if we think logically, he wants to see the report every 7 days, right?
+
+
+[Sayem Billah] 19:48:48
+Is that logical?
+
+
+[Zahidul Hoque Fahim] 19:48:49
+Is that helpful
+
+
+[Dan Leary] 19:48:51
+Um, so I was just gonna suggest this, that, um, there should be a section here called schedule.
+
+
+[Sayem Billah] 19:48:53
+Yeah.
+
+
+[Sayem Billah] 19:48:57
+Yeah.
+
+
+[Dan Leary] 19:48:59
+Um, and it… so you would put schedule above notification.
+
+
+[Dan Leary] 19:49:03
+And in the schedule, that's where you'd want to say.
+
+
+[Dan Leary] 19:49:09
+Um… you know, the… like, an example is… the previous month.
+
+
+[Dan Leary] 19:49:16
+And the schedule is run on the… first day or third day of the next month.
+
+
+[Dan Leary] 19:49:22
+I don't know, this is maybe where it gets a little complex, because.
+
+
+[Dan Leary] 19:49:27
+Most people… like, you're thinking, we'll want to see, okay, I want to see every day.
+
+
+[Dan Leary] 19:49:34
+yesterday's information. So they'll want to get a report that goes out every day, and when you do schedule, you might say, I wanted it.
+
+
+[Sayem Billah] 19:49:35
+Yeah.
+
+
+[Dan Leary] 19:49:44
+certain time, for example. 6 AM.
+
+
+[Dan Leary] 19:49:48
+like, you want to set a scheduled time. For it to be generated.
+
+
+[Sayem Billah] 19:49:51
+Alright.
+
+
+[Dan Leary] 19:49:53
+that has, like, yesterday in there, or previous 7 days.
+
+
+[Sayem Billah] 19:49:58
+Alright, so, uh, do we need any configuration like this, that… what if the user wants to see, uh, last month's or last 30 days report every 7 days, or every 15 days, this kind of configuration, or just…
+
+
+[Zahidul Hoque Fahim] 19:49:59
+So, media.
+
+
+[Zahidul Hoque Fahim] 19:50:05
+God's
+
+
+[Zahidul Hoque Fahim] 19:50:08
+I don't want to celebrate something.
+
+
+[Zahidul Hoque Fahim] 19:50:10
+Yes.
+
+
+[Sayem Billah] 19:50:12
+Let the schedule be the frequency.
+
+
+[Sayem Billah] 19:50:15
+Let's let the difference be the frequency of the report.
+
+
+[Zahidul Hoque Fahim] 19:50:19
+Are you on it both, so that user could select any?
+
+
+[Zahidul Hoque Fahim] 19:50:23
+Uh, every often, maybe every 7 days or every day.
+
+
+[Sayem Billah] 19:50:25
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:50:25
+And the duration.
+
+
+[Zahidul Hoque Fahim] 19:50:28
+like, for the last, uh, couple days, last 7 days, the last 30 days or so. So we could… we can let users choose both.
+
+
+[Sayem Billah] 19:50:35
+Alright.
+
+
+[Zahidul Hoque Fahim] 19:50:37
+Um, so that way, it'll be easier for us.
+
+
+[Sayem Billah] 19:50:39
+Yeah, it'll be flexible for them.
+
+
+[Dan Leary] 19:50:39
+Yeah, maybe… An example of how this will… So, here's the schedule.
+
+
+[Sayem Billah] 19:50:41
+Yeah.
+
+
+[Dan Leary] 19:50:48
+in a scheduled example is. The user selects the report to be generated at 6 o'clock.
+
+
+[Dan Leary] 19:50:55
+their local time, their browser time, for example. 6 o'clock on Monday morning.
+
+
+[Dan Leary] 19:51:00
+They want to generate a report. for the previous 7 days.
+
+
+[Sayem Billah] 19:51:07
+Alright…
+
+
+[Dan Leary] 19:51:08
+Um, that's an example of one story. Yeah. Um, another one is… Uh, the… the… the… first day of the new month, they generate a report for the previous month.
+
+
+[Zahidul Hoque Fahim] 19:51:08
+Yeah, it's possible. Yeah, yeah, yeah.
+
+
+[Sayem Billah] 19:51:10
+Yeah.
+
+
+[Dan Leary] 19:51:24
+like, 6am morning of the next month, they generate it for the previous month, um, or… or for yesterday.
+
+
+[Sayem Billah] 19:51:24
+Alright. Mm-hmm.
+
+
+[Sayem Billah] 19:51:27
+Hmm?
+
+
+[Dan Leary] 19:51:32
+Those 3 examples are probably the most common 3.
+
+
+[Zahidul Hoque Fahim] 19:51:36
+Yeah, we might want to have those as presets, so…
+
+
+[Dan Leary] 19:51:40
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:51:40
+Um, so videos, I can easily select one of those.
+
+
+[Zahidul Hoque Fahim] 19:51:43
+And get it started. Maybe they can customize it later.
+
+
+[Zahidul Hoque Fahim] 19:51:47
+with advanced options, but for now, maybe this can get us started.
+
+
+[Dan Leary] 19:51:47
+Yeah.
+
+
+[Sayem Billah] 19:51:51
+Alright, and…
+
+
+[Dan Leary] 19:51:52
+Yeah, and… but… but when… with regard to the notification.
+
+
+[Sayem Billah] 19:51:53
+Yeah.
+
+
+[Dan Leary] 19:51:57
+You don't have to set a schedule. Okay, you just… as soon as the report's generated, immediately notify.
+
+
+[Zahidul Hoque Fahim] 19:51:58
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:52:02
+Yeah, and that's why I wanted to ask you, we might have to change the wording here, it might not be notification.
+
+
+[Zahidul Hoque Fahim] 19:52:07
+It might be something else, because you're sending it right away.
+
+
+[Dan Leary] 19:52:11
+Yeah, it's…
+
+
+[Zahidul Hoque Fahim] 19:52:11
+Uh, so it might be Publex…
+
+
+[Zahidul Hoque Fahim] 19:52:14
+send report or send copy, or something like this, I mean, or…
+
+
+[Dan Leary] 19:52:17
+Yeah. Another example of wording for this could be distribution.
+
+
+[Zahidul Hoque Fahim] 19:52:17
+Yeah, I mean, just tens of wording.
+
+
+[Dan Leary] 19:52:25
+Um, because… delivery, yeah, who gets it?
+
+
+[Zahidul Hoque Fahim] 19:52:25
+Yep, our delivery.
+
+
+[Zahidul Hoque Fahim] 19:52:27
+Yeah, yeah, some…
+
+
+[Zahidul Hoque Fahim] 19:52:29
+Yeah, we get said, yeah.
+
+
+[Dan Leary] 19:52:30
+gets it in how, yeah.
+
+
+[Sayem Billah] 19:52:33
+Alright, and…
+
+
+[Zahidul Hoque Fahim] 19:52:33
+Yeah, we can change it later.
+
+
+[Sayem Billah] 19:52:35
+Yeah. So, and also we, like, yeah, sure, you're done.
+
+
+[Dan Leary] 19:52:37
+Yeah. But… But this is exactly what we needed, yeah.
+
+
+[Zahidul Hoque Fahim] 19:52:41
+Great.
+
+
+[Sayem Billah] 19:52:42
+Okay, so we already, uh, also enhanced some of the, you know, UX device, so that user…
+
+
+[Sayem Billah] 19:52:49
+has more visibility of what it's doing.
+
+
+[Sayem Billah] 19:52:53
+And finally, we also… we are also working on the…
+
+
+[Sayem Billah] 19:52:59
+shareable link that will be emailed to the user that has been notified, you know?
+
+
+[Sayem Billah] 19:53:04
+So, uh, as…
+
+
+[Dan Leary] 19:53:05
+Mm-hmm.
+
+
+[Sayem Billah] 19:53:07
+You requested, this is, uh, read-only.
+
+
+[Sayem Billah] 19:53:09
+Um, version of the report.
+
+
+[Sayem Billah] 19:53:11
+And user still needs to be logged in to view this report.
+
+
+[Sayem Billah] 19:53:15
+And we will soon add a download report
+
+
+[Sayem Billah] 19:53:20
+option here, and…
+
+
+[Sayem Billah] 19:53:22
+It will be also responsible… responsible for mobile. It's already in development, so…
+
+
+[Zahidul Hoque Fahim] 19:53:23
+box stores.
+
+
+[Dan Leary] 19:53:29
+Yeah. Yeah.
+
+
+[Sayem Billah] 19:53:29
+Kindly, it looks choppy, but it'll be alright, uh, as soon as we work it out.
+
+
+[Sayem Billah] 19:53:34
+And, yeah, so…
+
+
+[Sayem Billah] 19:53:37
+That's all for me now.
+
+
+[Dan Leary] 19:53:39
+So then, like, on that read-only version, which is… which is great, that's exactly what we needed, um, you'll include.
+
+
+[Sayem Billah] 19:53:43
+Yeah.
+
+
+[Dan Leary] 19:53:47
+The units, and make the columns sortable.
+
+
+[Zahidul Hoque Fahim] 19:53:51
+Yeah, everything, um, we have in the…
+
+
+[Dan Leary] 19:53:53
+So… So it's… Yeah.
+
+
+[Sayem Billah] 19:53:54
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:53:55
+Um, actual template.
+
+
+[Zahidul Hoque Fahim] 19:53:56
+So that just can change data, but they can format it how they want it to look it, so…
+
+
+[Dan Leary] 19:54:01
+But it can format it, yeah. Yeah, that's… that's… that's great. Um… And I think it's… it's fine that the user has to log in to see the data.
+
+
+[Sayem Billah] 19:54:02
+Yeah, yeah.
+
+
+[Zahidul Hoque Fahim] 19:54:02
+Yeah, yeah.
+
+
+[Dan Leary] 19:54:14
+That's good. It doesn't have to be, like, a open website.
+
+
+[Sayem Billah] 19:54:14
+Yep.
+
+
+[Dan Leary] 19:54:18
+That anybody can see. Um… so… So this is good. So the, um… the thing I… we just…
+
+
+[Zahidul Hoque Fahim] 19:54:19
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:54:26
+But one thing I just would like to ask, uh, for clarification is that
+
+
+[Zahidul Hoque Fahim] 19:54:30
+Since we have external users…
+
+
+[Zahidul Hoque Fahim] 19:54:33
+I mean, you could add anybody to the report.
+
+
+[Zahidul Hoque Fahim] 19:54:36
+Uh, by their email. Uh, that might not be Dinoars users, so how the… how are we gonna let them show the report if it's…
+
+
+[Zahidul Hoque Fahim] 19:54:43
+logged in always.
+
+
+[Dan Leary] 19:54:46
+Um, I think what we do is we just remove the external.
+
+
+[Zahidul Hoque Fahim] 19:54:50
+Okay.
+
+
+[Dan Leary] 19:54:51
+user's email. Because I… we might have discussed that last week. I originally thought it was a good idea, but actually.
+
+
+[Zahidul Hoque Fahim] 19:54:52
+Yeah.
+
+
+[Dan Leary] 19:54:58
+what makes more sense is that. an internal user gets the notification, and then by email, and then they forward it to an external.
+
+
+[Dan Leary] 19:55:07
+That's the more likely scenario. That way, the only way you can see this information is if you're logged into the portal.
+
+
+[Dan Leary] 19:55:14
+And we can maintain control over who gets to see the data.
+
+
+[Zahidul Hoque Fahim] 19:55:18
+Yeah, so… so the plan is, we might never send the actual file in the email attachment.
+
+
+[Sayem Billah] 19:55:18
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:55:25
+I mean, the PDFR itself?
+
+
+[Zahidul Hoque Fahim] 19:55:29
+Uh, because if we send the PDF, that they can send to anybody, and it's public, kind of.
+
+
+[Dan Leary] 19:55:30
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:55:35
+But if you just send the link, which they can click and open, and just see the report.
+
+
+[Dan Leary] 19:55:37
+Well…
+
+
+[Zahidul Hoque Fahim] 19:55:41
+in the browser, then we can take some control. I mean, actually, you can take the full control back.
+
+
+[Dan Leary] 19:55:46
+Yeah, I think the way you're doing it now is good, where… The user gets the notification.
+
+
+[Zahidul Hoque Fahim] 19:55:46
+So…
+
+
+[Dan Leary] 19:55:53
+And then they can open it up, and they can see this read-only page.
+
+
+[Zahidul Hoque Fahim] 19:55:56
+Yeah.
+
+
+[Dan Leary] 19:55:57
+And then there's a download button. And the download button can be CSV.
+
+
+[Dan Leary] 19:56:04
+Um… And… yeah, or PDF or Excel, and then they can… create a new email and send that downloaded report off to an external user?
+
+
+[Zahidul Hoque Fahim] 19:56:04
+or PDF, or Excel.
+
+
+[Dan Leary] 19:56:15
+That's… that's a good… that's fine. Yeah. Keep it simple.
+
+
+[Zahidul Hoque Fahim] 19:56:16
+That's okay? Okay.
+
+
+[Zahidul Hoque Fahim] 19:56:20
+Okay. Yeah, and uh, for another thing is, uh, since you also talking about the access permission,
+
+
+[Zahidul Hoque Fahim] 19:56:26
+So, initially, I mean,
+
+
+[Zahidul Hoque Fahim] 19:56:29
+Uh, anybody in the company can create reports, right, Sam?
+
+
+[Sayem Billah] 19:56:33
+Yeah, and it already belonged to the company can create the report.
+
+
+[Zahidul Hoque Fahim] 19:56:36
+So… so…
+
+
+[Dan Leary] 19:56:37
+Yeah. Good.
+
+
+[Zahidul Hoque Fahim] 19:56:39
+So, I mean, is that… is it fine that we are also…
+
+
+[Zahidul Hoque Fahim] 19:56:43
+Sending them to read-only link.
+
+
+[Dan Leary] 19:56:46
+Yep. Yeah, because if… if… What they can always do is, um… So the read-only comes from, like, the scheduled… reports that get sent out. If that user says, oh, I want to go and interact with the data and see it a different way, they'll log into the editor.
+
+
+[Zahidul Hoque Fahim] 19:56:47
+Okay.
+
+
+[Zahidul Hoque Fahim] 19:56:59
+Yeah.
+
+
+[Zahidul Hoque Fahim] 19:57:08
+Yes, you are right, yeah.
+
+
+[Dan Leary] 19:57:09
+in the edit, sort of edit mode, and they'll change it. Maybe they'll update the template, maybe they'll… Just, it'd be a one-time only thing.
+
+
+[Zahidul Hoque Fahim] 19:57:14
+Yes.
+
+
+[Zahidul Hoque Fahim] 19:57:16
+Yeah, now it makes sense, thank you.
+
+
+[Dan Leary] 19:57:17
+That's fine. Yeah. So, one… one question on this page is, um… Can you… can you make it, like, a full width?
+
+
+[Sayem Billah] 19:57:17
+Yeah.
+
+
+[Sayem Billah] 19:57:28
+Yeah, sure. Uh, we already noted that down. I need a full width like this to this.
+
+
+[Zahidul Hoque Fahim] 19:57:28
+Yes, everyone.
+
+
+[Dan Leary] 19:57:29
+When it's… Yeah.
+
+
+[Dan Leary] 19:57:34
+the less… the less scrolling left and right is… is better.
+
+
+[Sayem Billah] 19:57:34
+Yeah.
+
+
+[Sayem Billah] 19:57:39
+Yep, that is right.
+
+
+[Dan Leary] 19:57:40
+Um, but I… and then, is the top row locked?
+
+
+[Dan Leary] 19:57:44
+Or frozen. I know the left column is frozen.
+
+
+[Sayem Billah] 19:57:45
+Uh, do…
+
+
+[Sayem Billah] 19:57:47
+Yeah, this is also frozen, yeah.
+
+
+[Dan Leary] 19:57:48
+Like, if you scroll down… Perfect, yeah.
+
+
+[Sayem Billah] 19:57:51
+Alright.
+
+
+[Dan Leary] 19:57:52
+This is excellent. Um, can we go back to the, um, to the main edit page?
+
+
+[Sayem Billah] 19:57:54
+Thank you.
+
+
+[Sayem Billah] 19:57:59
+Yeah, sure.
+
+
+[Dan Leary] 19:58:01
+So… so I think there were two things we'd started talking about last week. You… one is, you gave me a task.
+
+
+[Dan Leary] 19:58:07
+On the, um… the wizard, the… the, uh… Dino AI button to say, what are the common.
+
+
+[Dan Leary] 19:58:17
+reports people would ask for. Um, which I haven't… I didn't have a chance to do yet because of the show, but I can do that today.
+
+
+[Sayem Billah] 19:58:19
+Yeah, yeah, yeah.
+
+
+[Sayem Billah] 19:58:25
+Yeah, sure, no worries.
+
+
+[Zahidul Hoque Fahim] 19:58:25
+Yeah, sure.
+
+
+[Dan Leary] 19:58:28
+So, I'll do that. But then, the next thing is we started saying.
+
+
+[Dan Leary] 19:58:34
+You know… what I envision happening.
+
+
+[Dan Leary] 19:58:40
+Oh, by the way, for status. Can you just select…
+
+
+[Dan Leary] 19:58:49
+active and learning by default, just have active in learning.
+
+
+[Sayem Billah] 19:58:54
+Yeah, alright, I have noted it down. Active and learning.
+
+
+[Dan Leary] 19:58:58
+be the default, yeah. Um, we talk about, like, group buy.
+
+
+[Sayem Billah] 19:59:05
+Yeah.
+
+
+[Dan Leary] 19:59:08
+Um…
+
+
+[Dan Leary] 19:59:12
+This is where… you know, I see this going, so we… group by… Um, there might be a couple levels of group I, and this is, like.
+
+
+[Dan Leary] 19:59:24
+Like, just like in Excel or other things. Um, we might want to say, uh, group by inverter type.
+
+
+[Dan Leary] 19:59:32
+And then by site name. Um… group by state, and then by site name.
+
+
+[Dan Leary] 19:59:43
+You know, there might just… We'll want to plan in the future for multiple group buy levels.
+
+
+[Sayem Billah] 19:59:48
+Mm-hmm, okay.
+
+
+[Dan Leary] 19:59:50
+You know? Um…
+
+
+[Sayem Billah] 19:59:51
+Yeah.
+
+
+[Sayem Billah] 19:59:53
+Yeah, sure, I understood. You want to, uh…
+
+
+[Dan Leary] 19:59:55
+Yeah.
+
+
+[Sayem Billah] 19:59:57
+let the user group by even more on the down level, like, first, he wants to group by the inverter, and then the sides, and then even more will come in future, like that.
+
+
+[Dan Leary] 20:00:07
+Yeah. Yeah, yes. And then… And then, um… The second, which is kind of maybe a bigger thing.
+
+
+[Sayem Billah] 20:00:10
+Okay, sure.
+
+
+[Dan Leary] 20:00:20
+is that the data right now is just coming from the, um… Um, the site daily roll-up.
+
+
+[Sayem Billah] 20:00:28
+Mm-hmm, yeah.
+
+
+[Dan Leary] 20:00:30
+And… we have a ton more information. in our database. Like, last week, Joey was trying to get a report.
+
+
+[Dan Leary] 20:00:40
+He was, you know, kind of asking, hey, for the fleet report.
+
+
+[Dan Leary] 20:00:42
+Can we put on there whether it's a ground mount.
+
+
+[Dan Leary] 20:00:45
+Or a tracker, or a rooftop. Like, the mounting type.
+
+
+[Sayem Billah] 20:00:49
+Yeah.
+
+
+[Dan Leary] 20:00:51
+Um, and so the question I have for you is… Um, can we… can we put in non… Can we put in other… other data that we have that's, like, on a site-by-site basis?
+
+
+[Dan Leary] 20:01:08
+Um…
+
+
+[Zahidul Hoque Fahim] 20:01:09
+Yeah.
+
+
+[Zahidul Hoque Fahim] 20:01:11
+Yeah, we can, maybe not by…
+
+
+[Dan Leary] 20:01:12
+And…
+
+
+[Zahidul Hoque Fahim] 20:01:15
+dates, but by side, we can, of course,
+
+
+[Zahidul Hoque Fahim] 20:01:18
+gather data, the configuration of sites, yeah, all the other configuration we do have.
+
+
+[Dan Leary] 20:01:19
+Yeah, I see, yeah.
+
+
+[Zahidul Hoque Fahim] 20:01:23
+Uh, for example, like, in energy modeling, or maybe, like, I mean, anything we can.
+
+
+[Zahidul Hoque Fahim] 20:01:28
+responsible.
+
+
+[Dan Leary] 20:01:29
+Yeah. Because I'll give you an example of a type of report somebody's going to want to see.
+
+
+[Sayem Billah] 20:01:35
+Sure.
+
+
+[Dan Leary] 20:01:36
+They're going to want to say, okay, in Vermont.
+
+
+[Dan Leary] 20:01:41
+Um, show me the snow losses… by mounting type.
+
+
+[Zahidul Hoque Fahim] 20:01:46
+Hmm.
+
+
+[Dan Leary] 20:01:48
+For example, and you're gonna say, okay, oh, I got a first group by the state.
+
+
+[Dan Leary] 20:01:55
+One state is Vermont, one state's Massachusetts, um, and then we're gonna say, okay, now.
+
+
+[Sayem Billah] 20:01:57
+Yeah.
+
+
+[Dan Leary] 20:02:00
+list all the sites, and there's no losses. But group them by which sites are fixed ground mount versus trackers.
+
+
+[Dan Leary] 20:02:12
+Um, and then, you know, we probably want to have, like, when you do group by.
+
+
+[Dan Leary] 20:02:17
+Show… show it totals. Bro, for example.
+
+
+[Dan Leary] 20:02:21
+What's… what's the total, or… You know, that's… and I'll be in the future.
+
+
+[Zahidul Hoque Fahim] 20:02:23
+Yeah.
+
+
+[Dan Leary] 20:02:28
+But…
+
+
+[Zahidul Hoque Fahim] 20:02:29
+Yeah, Grubbed might be the last option we should let them choose in the filter.
+
+
+[Zahidul Hoque Fahim] 20:02:34
+Because it is the output, it's the… how you want to format it, so…
+
+
+[Sayem Billah] 20:02:38
+You have that role be visualized.
+
+
+[Zahidul Hoque Fahim] 20:02:38
+So, yeah, I need to… it should also be dynamic, because since you want to group by the tracker, or the mounting type, so…
+
+
+[Zahidul Hoque Fahim] 20:02:46
+It should be dynamic, not just sites and days, so… which would, uh…
+
+
+[Zahidul Hoque Fahim] 20:02:50
+move it to the end of the filter.
+
+
+[Zahidul Hoque Fahim] 20:02:52
+We're gonna do that.
+
+
+[Dan Leary] 20:02:54
+Yeah. Yep.
+
+
+[Dan Leary] 20:03:01
+Um… So that's kind of future, that's giving you ideas about the coming weeks of the types of development that we'll be looking for.
+
+
+[Dan Leary] 20:03:11
+But let's talk now about… how we… Let's say I wanted to, um… release, like, version 1 beta of Report Builder for our customers to start using on March 1st.
+
+
+[Sayem Billah] 20:03:27
+Yeah.
+
+
+[Dan Leary] 20:03:28
+in a few weeks. Can we talk for a minute about how… that user experience, what that looks like.
+
+
+[Dan Leary] 20:03:37
+in our portal.
+
+
+[Zahidul Hoque Fahim] 20:03:39
+Uh, yeah, we have one missing piece that we haven't, um…
+
+
+[Zahidul Hoque Fahim] 20:03:45
+And alert, that is the…
+
+
+[Zahidul Hoque Fahim] 20:03:46
+Um, SSO, or…
+
+
+[Zahidul Hoque Fahim] 20:03:49
+Because right now, we have to log into ICE.
+
+
+[Zahidul Hoque Fahim] 20:03:52
+So, it's not something complex, we're gonna do that.
+
+
+[Zahidul Hoque Fahim] 20:03:56
+So we have to do it initially, as a first step.
+
+
+[Zahidul Hoque Fahim] 20:04:00
+And then the user journey should be smooth, uh, and…
+
+
+[Zahidul Hoque Fahim] 20:04:05
+They should feel like, uh, in the portal.
+
+
+[Zahidul Hoque Fahim] 20:04:08
+So…
+
+
+[Dan Leary] 20:04:11
+Yeah. So… so what I envision… What I envision doing in our portal.
+
+
+[Dan Leary] 20:04:20
+is having, um, you know how we have the reports on the left?
+
+
+[Dan Leary] 20:04:24
+Sidebar. that this becoming that report's… And that what we have currently reports is for, like, capacity test and energy test.
+
+
+[Zahidul Hoque Fahim] 20:04:24
+Yeah, yes.
+
+
+[Dan Leary] 20:04:37
+And what we would do is rename that to a left menu called Tests.
+
+
+[Zahidul Hoque Fahim] 20:04:43
+Mm-hmm.
+
+
+[Dan Leary] 20:04:43
+So, it would go like… analytics, tests, and reports.
+
+
+[Dan Leary] 20:04:48
+So, the Plotly stuff would be tests, and then this would be reports.
+
+
+[Zahidul Hoque Fahim] 20:04:52
+Okay. Yeah.
+
+
+[Dan Leary] 20:04:54
+And, um… and then everything you have on here is exactly how we.
+
+
+[Dan Leary] 20:05:00
+Just like to, you know, to view it, it's… It's terrific.
+
+
+[Zahidul Hoque Fahim] 20:05:06
+Yeah, it just… I don't know, uh, if we're gonna…
+
+
+[Dan Leary] 20:05:08
+Yeah.
+
+
+[Zahidul Hoque Fahim] 20:05:11
+embedded in the portal.
+
+
+[Zahidul Hoque Fahim] 20:05:13
+Because our initial idea was to…
+
+
+[Zahidul Hoque Fahim] 20:05:15
+redirect it, not embed it.
+
+
+[Dan Leary] 20:05:17
+Yep. And… Yeah, and it's fine to, um… It's fine to have it, have it open in a new browser window and not be embedded.
+
+
+[Zahidul Hoque Fahim] 20:05:18
+So…
+
+
+[Zahidul Hoque Fahim] 20:05:20
+We might have to play with that first.
+
+
+[Dan Leary] 20:05:34
+You know, you guys will have to tell me what's the… What's the best way to do that?
+
+
+[Zahidul Hoque Fahim] 20:05:36
+Yeah, because we have, you know, all the headers and stuff that… it itself is a different…
+
+
+[Zahidul Hoque Fahim] 20:05:42
+a page, so…
+
+
+[Zahidul Hoque Fahim] 20:05:44
+If you want to embed it, we might have to frame some items from up there.
+
+
+[Zahidul Hoque Fahim] 20:05:48
+And… like, I make it, uh…
+
+
+[Zahidul Hoque Fahim] 20:05:51
+make it talk to Portal more…
+
+
+[Zahidul Hoque Fahim] 20:05:55
+So, I mean, maybe let's not embed it.
+
+
+[Zahidul Hoque Fahim] 20:05:59
+Uh, if it's not super critical.
+
+
+[Zahidul Hoque Fahim] 20:06:02
+And start by just sending in a new page, maybe not a new window, just the same window, so user only build.
+
+
+[Dan Leary] 20:06:02
+Yep.
+
+
+[Zahidul Hoque Fahim] 20:06:10
+Um, major changes, just sending in a different web page that also looks like Dinos portal.
+
+
+[Zahidul Hoque Fahim] 20:06:16
+but called in our skipper builders, so…
+
+
+[Sayem Billah] 20:06:19
+Yeah.
+
+
+[Dan Leary] 20:06:24
+So the next question I have for you is, um… Right now, this is all based off of building a report that's a, um… a table.
+
+
+[Zahidul Hoque Fahim] 20:06:35
+Mm-hmm.
+
+
+[Sayem Billah] 20:06:36
+Yeah.
+
+
+[Dan Leary] 20:06:37
+And… was wondering… your thoughts on… reports that could be charts.
+
+
+[Zahidul Hoque Fahim] 20:06:44
+Yeah, I've seen further reports that could be charts are gonna be, uh, a little bit complex.
+
+
+[Zahidul Hoque Fahim] 20:06:50
+I mean, more than a little bit complex, uh, so we might have a different repo type, not table, so in the future, we might have, like, two
+
+
+[Zahidul Hoque Fahim] 20:06:58
+The prototypes, one is stable, and another one is maybe just page or something like that.
+
+
+[Zahidul Hoque Fahim] 20:07:03
+And, you know, when you select a page, it's gonna show you a blank page, just like Word, then you're gonna have option…
+
+
+[Zahidul Hoque Fahim] 20:07:08
+Um, like, which, uh, things you want to have in the reports.
+
+
+[Zahidul Hoque Fahim] 20:07:13
+Maybe some charts or some data, just like how you do in Word.
+
+
+[Zahidul Hoque Fahim] 20:07:17
+So, from the left panel, you can drag a different kind of pie charts, or table charts, or something like that.
+
+
+[Dan Leary] 20:07:21
+It's… Yeah.
+
+
+[Zahidul Hoque Fahim] 20:07:23
+And it's gonna adjust based on the data you provided.
+
+
+[Zahidul Hoque Fahim] 20:07:26
+So, that's so hard, our initial vision.
+
+
+[Dan Leary] 20:07:29
+Yeah. It…
+
+
+[Zahidul Hoque Fahim] 20:07:30
+Um, we might have to adjust, yeah.
+
+
+[Dan Leary] 20:07:34
+It's, um… and that's… that's fine. I'm not in a rush to put.
+
+
+[Dan Leary] 20:07:39
+charts on this report. Um, if it… You know, for the foreseeable future, it can remain a table.
+
+
+[Dan Leary] 20:07:47
+I was just curious if you guys had been doing any other testing or looking into that.
+
+
+[Dan Leary] 20:07:52
+So…
+
+
+[Zahidul Hoque Fahim] 20:07:53
+No, we were doing some research, but it's not, uh, we would be not developing it actively yet.
+
+
+[Dan Leary] 20:07:59
+Yeah, it's… I think… Yeah, I do think that, um… What we'll want to do is, uh, focus on keeping it a table.
+
+
+[Zahidul Hoque Fahim] 20:08:00
+but we're exploring the solutions, yeah.
+
+
+[Zahidul Hoque Fahim] 20:08:10
+Mm-hmm.
+
+
+[Dan Leary] 20:08:11
+Um, focus on, you know, the… the Deno AI, um… Helper, assistant.
+
+
+[Zahidul Hoque Fahim] 20:08:19
+Yeah.
+
+
+[Dan Leary] 20:08:20
+is… is helpful. Um, adding, like, the group by… tiers of group I?
+
+
+[Zahidul Hoque Fahim] 20:08:27
+Yes?
+
+
+[Dan Leary] 20:08:27
+It pulls in other data than, you know, from… from the collection.
+
+
+[Dan Leary] 20:08:32
+Um, and… and then probably… go to more of, um, you know.
+
+
+[Dan Leary] 20:08:38
+show summary roles, Rose.
+
+
+[Dan Leary] 20:08:44
+Um… You know, but everything is in a table.
+
+
+[Zahidul Hoque Fahim] 20:08:44
+Yeah.
+
+
+[Dan Leary] 20:08:50
+format for this report, so let's… we'll focus on that.
+
+
+[Zahidul Hoque Fahim] 20:08:51
+Okay.
+
+
+[Dan Leary] 20:08:54
+For now. And then once we have all that put together, maybe we would consider.
+
+
+[Zahidul Hoque Fahim] 20:08:55
+Great.
+
+
+[Dan Leary] 20:08:59
+adding in some other charts in the future, but… for now.
+
+
+[Dan Leary] 20:09:04
+I'll do this.
+
+
+[Zahidul Hoque Fahim] 20:09:06
+Yeah, and I have some good ideas how to deal with the group buys dynamically, so let's work on that, and we're gonna show you next week.
+
+
+[Dan Leary] 20:09:12
+Yeah. Awesome.
+
+
+[Sayem Billah] 20:09:15
+Yeah.
+
+
+[Zahidul Hoque Fahim] 20:09:16
+Good, thank you.
+
+
+[Dan Leary] 20:09:17
+All right, nice. Yeah, I demonstrated this last week for two or three customers.
+
+
+[Dan Leary] 20:09:23
+And they were really excited because this is exactly what they needed.
+
+
+[Zahidul Hoque Fahim] 20:09:28
+Awesome. Great to know that.
+
+
+[Sayem Billah] 20:09:28
+That's great.
+
+
+[Dan Leary] 20:09:28
+So… Yeah.
+
+
+[Dan Leary] 20:09:34
+Um… What else did we need to talk about?
+
+
+[Al Amin Khan] 20:09:44
+Uh, then about the mobile app, uh, I actually need… An overview or a review from you.
+
+
+[Al Amin Khan] 20:09:52
+As upcoming days, our, uh, mobile app is. Getting bigger and bigger and.
+
+
+[Al Amin Khan] 20:10:00
+and many of the things I don't mention when I publish an app, but uh… Do you find, uh, everything, uh, from it?
+
+
+[Al Amin Khan] 20:10:08
+Uh, suppose, uh, there are some hidden buttons in there that, uh.
+
+
+[Al Amin Khan] 20:10:14
+Does not seem like a clickable button, but those are clickable.
+
+
+[Al Amin Khan] 20:10:18
+I don't know, uh, as a UX-wise, what do you think are the customer actually think those are using the mobile app?
+
+
+[Dan Leary] 20:10:30
+Um, I think there's definitely, um… I've been very focused on getting… The key things… so the mobile app is primarily used by field technicians.
+
+
+[Dan Leary] 20:10:42
+To do field installations. That's probably 90% or more of how people use the mobile app.
+
+
+[Dan Leary] 20:10:50
+The other 10% could be… me looking at, like, a site status.
+
+
+[Dan Leary] 20:10:57
+because I'm not at my computer. So, I kind of still… and then probably the feed.
+
+
+[Al Amin Khan] 20:11:00
+Yeah.
+
+
+[Dan Leary] 20:11:06
+Um, so, to me. Um… The web… the web app… is going to have probably 10 times the functionality, like all those little buttons you described, that really don't work well on mobile.
+
+
+[Dan Leary] 20:11:20
+That's okay. In fact, I'd rather just remove them from the UI.
+
+
+[Al Amin Khan] 20:11:21
+Yeah.
+
+
+[Dan Leary] 20:11:25
+So that the mobile app is just a… Um, a simplified version of the web.
+
+
+[Dan Leary] 20:11:31
+that doesn't have a lot of the functionality. But it's got to have, um, the field set up.
+
+
+[Dan Leary] 20:11:38
+the status checking… Um… the feed, and, like, the portfolio view, and.
+
+
+[Dan Leary] 20:11:48
+in the portfolio view. Like, for example, I think it's okay that it has the map in there.
+
+
+[Dan Leary] 20:11:55
+But… more important than, like, the map is the… the table of, um… Yeah, so… so, for example, like, right now, it's got the status.
+
+
+[Al Amin Khan] 20:12:02
+Showing the data is right.
+
+
+[Dan Leary] 20:12:10
+the connection status. table, but it doesn't have the alarm… status.
+
+
+[Al Amin Khan] 20:12:12
+Yeah. Yeah.
+
+
+[Dan Leary] 20:12:16
+And we should add, like, the alarm status to that.
+
+
+[Al Amin Khan] 20:12:20
+Okay.
+
+
+[Dan Leary] 20:12:22
+Um… But…
+
+
+[Dan Leary] 20:12:35
+We don't need to do, um… Well, let me put it this way. Like, if I really needed to go see the configuration, like a channel configuration on my mobile.
+
+
+[Dan Leary] 20:12:47
+I would just go to the website. And, like… but, like, I don't… we don't need to have that in the mobile app.
+
+
+[Al Amin Khan] 20:12:50
+Yeah.
+
+
+[Dan Leary] 20:12:56
+But we can view it in a mobile… browser. If we really… if we really need to.
+
+
+[Al Amin Khan] 20:12:59
+Yeah, yeah.
+
+
+[Zahidul Hoque Fahim] 20:13:02
+Yeah.
+
+
+[Dan Leary] 20:13:04
+If that makes sense. Oh, yeah. Yeah.
+
+
+[Zahidul Hoque Fahim] 20:13:04
+And also, same goes for energy modeling and other stuff.
+
+
+[Dan Leary] 20:13:11
+Exactly. Yeah, exactly.
+
+
+[Al Amin Khan] 20:13:17
+Yeah.
+
+
+[Al Amin Khan] 20:13:21
+Okay. Yeah.
+
+
+[Dan Leary] 20:13:22
+Good. Um… I'm not sure how to communicate.
+
+
+[Dan Leary] 20:13:30
+what things we don't need. Maybe I should just, like… take screenshots.
+
+
+[Dan Leary] 20:13:38
+Maybe that's the only way to do it. And just, like, send you some… suggestions in the screenshots.
+
+
+[Al Amin Khan] 20:13:39
+Okay. Yeah.
+
+
+[Zahidul Hoque Fahim] 20:13:42
+Yeah. Thanks.
+
+
+[Zahidul Hoque Fahim] 20:13:46
+Yeah, removing stuff is easy.
+
+
+[Al Amin Khan] 20:13:49
+Yeah.
+
+
+[Dan Leary] 20:13:49
+removing stuff. It's primarily, with the exception of adding in the alarms.
+
+
+[Zahidul Hoque Fahim] 20:13:49
+So…
+
+
+[Dan Leary] 20:13:55
+Table. Everything else is removing stuff.
+
+
+[Zahidul Hoque Fahim] 20:14:00
+Yeah, sometimes it's fun too, so…
+
+
+[Zahidul Hoque Fahim] 20:14:03
+Please send us the screenshots.
+
+
+[Dan Leary] 20:14:05
+Yeah. Maybe we'll do… maybe I'll just do that.
+
+
+[Dan Leary] 20:14:09
+Okay.
+
+
+[Zahidul Hoque Fahim] 20:14:10
+Yeah.
+
+
+[Zahidul Hoque Fahim] 20:14:12
+Great.
+
+
+[Dan Leary] 20:14:18
+I think that's… that's probably good for now. Um… so you guys are not gonna be publishing anything.
+
+
+[Zahidul Hoque Fahim] 20:14:22
+Yeah.
+
+
+[Dan Leary] 20:14:28
+Today, it sounds like you're not pushing anything to stage today.
+
+
+[Zahidul Hoque Fahim] 20:14:34
+Diana, do you have anything to post today?
+
+
+[Azizul Haque Jany] 20:14:36
+No, no, we'll, uh, we have to plan to push tomorrow.
+
+
+[Azizul Haque Jany] 20:14:40
+Just, uh, minor thing. One thing is…
+
+
+[Azizul Haque Jany] 20:14:44
+offset, and another thing is…
+
+
+[Azizul Haque Jany] 20:14:48
+Uh, maybe…
+
+
+[Azizul Haque Jany] 20:14:51
+Okay, uh…
+
+
+[Zahidul Hoque Fahim] 20:14:52
+So-so will not post the notification and other configuration this week, and since we…
+
+
+[Azizul Haque Jany] 20:14:55
+Yes, yeah, yeah, right.
+
+
+[Al Amin Khan] 20:14:56
+Yeah.
+
+
+[Dan Leary] 20:14:57
+Do that. Yeah.
+
+
+[Zahidul Hoque Fahim] 20:14:58
+Yeah, and since also we have, uh, two days off, uh…
+
+
+[Zahidul Hoque Fahim] 20:15:03
+11th and 12, so… so you're not gonna risk it, uh, delivery in 13, because that's the end of the week, so…
+
+
+[Dan Leary] 20:15:07
+Yeah.
+
+
+[Zahidul Hoque Fahim] 20:15:09
+So we are hoping the major feature we're gonna deploy
+
+
+[Zahidul Hoque Fahim] 20:15:12
+the next week.
+
+
+[Azizul Haque Jany] 20:15:14
+Yeah, another thing is register type in the template and the channels.
+
+
+[Dan Leary] 20:15:14
+Okay.
+
+
+[Zahidul Hoque Fahim] 20:15:20
+So this is a thing we're gonna deploy tomorrow.
+
+
+[Azizul Haque Jany] 20:15:21
+This tour is a minor thing, or we'll push it tomorrow.
+
+
+[Dan Leary] 20:15:26
+Good, yeah. So then, what I… what I'd like to do… Let me ask you this, um… With respect to the reports.
+
+
+[Dan Leary] 20:15:40
+And when we allow customers to start using it.
+
+
+[Dan Leary] 20:15:44
+Um… What do you guys think of… trying to bring it to stage.
+
+
+[Dan Leary] 20:15:53
+on the 24th.
+
+
+[Zahidul Hoque Fahim] 20:15:58
+the report builder.
+
+
+[Dan Leary] 20:16:01
+Yeah. I'd like to… I'd like to… to launch that for customers to start using next month, even if it's…
+
+
+[Zahidul Hoque Fahim] 20:16:07
+Yeah, yeah, and actually, that's even better, because the sooner you test it, the better it is. So, yeah, sure.
+
+
+[Zahidul Hoque Fahim] 20:16:13
+Yeah, we'll try to deploy it on the States, maybe in the production.
+
+
+[Zahidul Hoque Fahim] 20:16:17
+Um…
+
+
+[Dan Leary] 20:16:18
+You… you… you could… Depending on, like… you know, we don't have to have everything we discussed working, but it's not… I actually feel like you're pretty close to having it pretty.
+
+
+[Zahidul Hoque Fahim] 20:16:18
+Yeah.
+
+
+[Zahidul Hoque Fahim] 20:16:24
+Yeah, yeah.
+
+
+[Dan Leary] 20:16:28
+pretty functional. Like, you can almost say, like, next Tuesday.
+
+
+[Dan Leary] 20:16:34
+put it… I guess it's already in stage. But, um… if I wanted customers to start, like, testing it out.
+
+
+[Zahidul Hoque Fahim] 20:16:41
+Yeah. Yeah, the main thing, like I said, uh, is the portal integration. So, that's the main…
+
+
+[Dan Leary] 20:16:47
+Yeah.
+
+
+[Zahidul Hoque Fahim] 20:16:47
+missing part we have, so…
+
+
+[Zahidul Hoque Fahim] 20:16:49
+Uh, maybe we can do it next weekend.
+
+
+[Zahidul Hoque Fahim] 20:16:51
+You can start, uh, onboarding customers.
+
+
+[Dan Leary] 20:16:54
+Yeah. Yeah.
+
+
+[Zahidul Hoque Fahim] 20:16:55
+One or two, maybe, at least, and try to see how things goes.
+
+
+[Dan Leary] 20:16:59
+Yeah, I think we should do that. Okay, good.
+
+
+[Zahidul Hoque Fahim] 20:17:02
+I agree.
+
+
+[Dan Leary] 20:17:05
+Uh, that's everything for me then
