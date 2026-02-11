@@ -38,7 +38,7 @@ jobs:
 
       - name: Run tests against STAGING
         env:
-          BASE_URL: ${{ secrets.STAGING_BASE_URL }}
+          BASE_URL: ${{ secrets.BASE_URL }}
           USER_NAME: ${{ secrets.USER_NAME }}
           PASS_WORD: ${{ secrets.PASS_WORD }}
           WRONG_USER_NAME: ${{ secrets.WRONG_USER_NAME }}

@@ -30,22 +30,4 @@ async function globalSetup() {
   await browser.close();
 }
 export default globalSetup;
-// async function globalSetup(config: FullConfig) {
-//   const browser = await chromium.launch();
-//   const context = await browser.newContext({
-//     baseURL: process.env.BASE_URL,
-//   });
-//   const page = await context.newPage();
-
-//   const loginPage = new LoginPage(page);
-
-//   await loginPage.openSignIn();
-//   await loginPage.login(
-//     process.env.USER_NAME!,
-//     process.env.PASS_WORD! 
-//   );
-//   await loginPage.clickToLogin();
-//   await context.storageState({ path: AUTH_STATE_PATH });
-//   await browser.close();
-// }
 
