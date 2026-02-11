@@ -9,7 +9,7 @@ test("Signout and try to Login with invalid credentials", async ({
   await page.goto("/dashboard");
   await loginPage.signOut();
   await loginPage.enterLoginCredentials(
-    process.env.WRONG_USERNAME!,
+    process.env.WRONG_USER_NAME!,
     process.env.PASS_WORD!,
   );
 
