@@ -1,7 +1,7 @@
 import { test } from "../src/fixtures/base-fixture";
 import { expect } from "@playwright/test";
 
-test("Upload transcript file and analyze", async ({ dashboardPage, page }) => {
+test("Upload transcript file and verify success message", async ({ dashboardPage, page }) => {
   await page.goto("/dashboard");
   await expect(page).toHaveURL(/dashboard/);
 
@@ -11,7 +11,7 @@ test("Upload transcript file and analyze", async ({ dashboardPage, page }) => {
         res.url().includes("api/recordings/upload") &&
         res.request().method() === "POST",
     ),
-    dashboardPage.uploadTranscriptFile("transcript-file.txt"),
+    dashboardPage.uploadTranscriptFile("transcript-file-new.txt"),
   ]);
   expect(fileUploadResponse.status()).toBe(200);
   const body = await fileUploadResponse.json();
@@ -19,6 +19,27 @@ test("Upload transcript file and analyze", async ({ dashboardPage, page }) => {
   await expect(dashboardPage.successfulUploadToast).toBeVisible();
   await expect(dashboardPage.uploadedFileName).toBeVisible();
 });
+
+
+test("Delete Uploaded first transcript file", async ({ dashboardPage, page }) => {
+  await page.goto("/dashboard");
+  await expect(page).toHaveURL(/dashboard/);
+  await dashboardPage.openDeleteModal("transcript-file-new.txt");
+
+  const [fileDeleteResponse] = await Promise.all([
+    page.waitForResponse(
+      (res) =>
+        res.url().includes("api/recordings/uploaded") &&
+        res.request().method() === "DELETE",
+    ),
+    dashboardPage.deleteConfirmationButton.click(),
+  ]);
+  expect(fileDeleteResponse.status()).toBe(200);
+  const body = await fileDeleteResponse.json();
+  expect(body.message).toBe("File deleted successfully");
+  await expect(dashboardPage.successfulDeletionToast).toBeVisible();
+});
+
 
 test("Try to upload invalid file type and verify error message", async ({
   dashboardPage,
@@ -43,7 +64,7 @@ test("Upload file , choose project , select destination and finally analyze", as
         res.url().includes("api/recordings/upload") &&
         res.request().method() === "POST",
     ),
-    dashboardPage.uploadTranscriptFile("transcript-file.txt"),
+    dashboardPage.uploadTranscriptFile("transcript-file-new.txt"),
   ]);
   expect(fileUploadResponse.status()).toBe(200);
   
@@ -65,10 +86,10 @@ test("Upload file , choose project , select destination and finally analyze", as
   // await dashboardPage.submitDestinationSelection();
 });
 
-test("Delete Uploaded transcript file", async ({ dashboardPage, page }) => {
+test("Delete Uploaded secondtranscript file", async ({ dashboardPage, page }) => {
   await page.goto("/dashboard");
   await expect(page).toHaveURL(/dashboard/);
-  await dashboardPage.openDeleteModal("transcript-file.txt");
+  await dashboardPage.openDeleteModal("transcript-file-new.txt");
 
   const [fileDeleteResponse] = await Promise.all([
     page.waitForResponse(

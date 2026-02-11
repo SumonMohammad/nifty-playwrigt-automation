@@ -53,7 +53,7 @@ export class DashboardPage {
       "Invalid file type. Only .vtt and .txt files are allowed.",
     );
     this.uploadedFileName = page
-      .getByText("transcript-file.txt", { exact: true })
+      .getByText("transcript-file-new.txt", { exact: true })
       .first();
     this.deleteConfirmationModal = page
       .locator(".ant-modal")
@@ -135,7 +135,7 @@ export class DashboardPage {
   }
 
   async uploadTranscriptFile(
-    fileName: string = "transcript-file.txt",
+    fileName: string = "transcript-file-new.txt",
   ): Promise<void> {
     await this.uploadFile.click();
     const filePath = `src/test-data/files/${fileName}`;
